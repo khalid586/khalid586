@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khalid586
+- 👋 Hi, I’m @khalid Abdullah
 - 👀 I’m interested in Machine Learning and Backend web development
 - 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to collaborate on Machine Learning projects
