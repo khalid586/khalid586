@@ -34,7 +34,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khalid586&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-<img align="right" alt="Coding" width="300" height="240" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="350" height="240" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=chartreuse-dark&hide_border=false)
