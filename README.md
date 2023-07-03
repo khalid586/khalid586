@@ -8,13 +8,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalid586" alt="khalid586" /></a> </p>
 
 <div>
-  - 🌱 I’m currently learning **Spacy for my research on NLP.**
-
-- 📫 How to reach me **khalidcomilla58@gmail.com**
-
-- ⚡ Fun fact **I have debated once in my life which I lost.**
+  <h1 align="center">👨‍🎓About Me</h1>
+  <ul>
+    <li> 💻Frontend Developer</li>
+    <li> ICPC Dhaka Regionalist [2021 & 2022]</li>
+    <li> Problem setter </li>
+    <li> 📫 How to reach me <a href = "https://mail.google.com/">khalidcomilla58@gmail.com </a></li>
+  </ul> 
 </div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
