@@ -12,7 +12,7 @@
   <ul>
     <li> 💻Frontend Developer</li>
     <li> <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"><b>🏆ICPC Dhaka Regionalist [2021 & 2022] </b></a></li>
-    <li> <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8">🚩Problem setter [Intra Baiust Programming Contest]</a></li>
+    <li> <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8">🚩Problem Author [Intra Baiust Programming Contest]</a></li>
     <li> 📫 Reach me via <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"><b>LinkedIn</b></a> | <a href = "mailto:khalidcomitlla58@gmail.com"><b> Gmail</b></a></li>
   </ul> 
 </div>
