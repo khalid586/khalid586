@@ -11,8 +11,8 @@
 
   <ul>
     <li> 💻Frontend Developer</li>
-    <li> 🏆ICPC Dhaka Regionalist ➡️ <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"><b> [Credentials] </b></a></li>
-    <li> 📝 Problem Author ➡️ <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"><strong>[Toph]</strong></a></li>
+    <li> 🏆ICPC Dhaka Regionalist ➡️ <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"><b> ICPC </b></a></li>
+    <li> 📝 Problem Author ➡️ <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"><strong>Toph</strong></a></li>
     <li> 📫 Reach me ➡️ <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"><b>LinkedIn</b></a> | <a href = "mailto:khalidcomitlla58@gmail.com"><b> Gmail</b></a></li>
   </ul> 
 </div>
