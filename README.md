@@ -7,11 +7,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalid586" alt="khalid586" /></a> </p>
 
-- 🌱 I’m currently learning **Spacy for my research on NLP.**
+<div>
+  - 🌱 I’m currently learning **Spacy for my research on NLP.**
 
 - 📫 How to reach me **khalidcomilla58@gmail.com**
 
 - ⚡ Fun fact **I have debated once in my life which I lost.**
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
