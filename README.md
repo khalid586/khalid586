@@ -1,4 +1,4 @@
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="175px"/></a>
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="175px"/></a>
 <h1 align="center"> 👨🏻‍🎓khalid abdullah</h1>
 <h2 align="center"> 💻Frontend Developer from Bangladesh</h2>
 
