@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm khalid abdullah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-<img align="center" alt="Coding" width="1000" height = "300" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="center" alt="Coding" width="400 height = "100" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid586&label=Profile%20views&color=0e75b6&style=flat" alt="khalid586" /> </p>
