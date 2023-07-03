@@ -2,7 +2,8 @@
 <h1 align="center"> 👨🏻‍🎓khalid abdullah</h1>
 <h2 align="center"> 💻Frontend Developer from Bangladesh</h2>
 
-[![](https://visitcount.itsvg.in/api?id=khalid586&icon=6&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=khalid586&icon=0&color=11)](https://visitcount.itsvg.in)
+
 
 <div>
   <h2 dir="center" align = "center"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong> About Me </strong></h2>
@@ -31,9 +32,11 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=khalid586&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=khalid586&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=chartreuse-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=khalid586&theme=radical&no-frame=false&no-bg=true&margin-w=4)
