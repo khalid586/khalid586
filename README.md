@@ -12,7 +12,7 @@
   <ul>
     <li> 💻Frontend Developer</li>
     <li> <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU">🏆ICPC Dhaka Regionalist [2021 & 2022]</li>
-    <li> <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8">🚩Problem setter </li>
+    <li> <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8">🚩Problem setter [Intra Baiust Programming Contest]</li>
     <li> 📫 How to reach me <a href = "https://mail.google.com/">khalidcomilla58@gmail.com </a></li>
   </ul> 
 </div>
