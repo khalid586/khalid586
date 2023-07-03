@@ -6,14 +6,14 @@
 
 
 <div>
-  <h2 dir="center" align = "center"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong> About Me </strong></h2>
+  <h2 dir="center" align = "center"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong> About Me ⬇️</strong></h2>
   <img align="right" alt="Coding" width="400" height="240" src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47lduj0d53b8e9fk19rq8t0bm2z2zroj50tmzjuf4r&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
   <ul>
     <li> 💻Frontend Developer</li>
-    <li> <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"><b>🏆ICPC Dhaka Regionalist [2021 & 2022] </b></a></li>
-    <li> 🚩Problem Author <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8">[Intra Baiust Programming Contest]</a></li>
-    <li> 📫 Reach me via <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"><b>LinkedIn</b></a> | <a href = "mailto:khalidcomitlla58@gmail.com"><b> Gmail</b></a></li>
+    <li> 🏆ICPC Dhaka Regionalist ➡️ <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"><b> [Credentials] </b></a></li>
+    <li> 📝 Problem Author ➡️ <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"><strong>[Toph]</strong></a></li>
+    <li> 📫 Reach me ➡️ <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"><b>LinkedIn</b></a> | <a href = "mailto:khalidcomitlla58@gmail.com"><b> Gmail</b></a></li>
   </ul> 
 </div>
 
