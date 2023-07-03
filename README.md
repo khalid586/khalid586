@@ -1,6 +1,6 @@
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="175px"/></a>
-<h1 align="center">Hi 👋, I'm khalid abdullah</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h1 align="center"> 👨🏻‍🎓khalid abdullah</h1>
+<h2 align="center"> 💻Frontend Developer from Bangladesh</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid586&label=Profile%20views&color=0e75b6&style=flat" alt="khalid586" /> </p>
 
