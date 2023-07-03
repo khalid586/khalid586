@@ -33,6 +33,5 @@
 
 <img align="right" alt="Coding" width="400" height="320" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid586&show_icons=true&locale=en&layout=compact" alt="khalid586" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid586&show_icons=true&locale=en&layout=compact" alt="khalid586" /></p> <br>
 <p><img width = "400" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid586&" alt="khalid586" /></p>
