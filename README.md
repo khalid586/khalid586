@@ -1,6 +1,6 @@
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"" height="175px"/></a>
 <h1 align="center"> 👋khalid abdullah</h1>
-<h3 align="center"> 💻Frontend Dev |<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" > Sports Programmer  <a href = "https://www.stopstalk.com/user/profile/khalid58">[ 📈 ]</a> </h3>
+<h3 align="center"> 💻Frontend Dev |<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-animated-image="" > Sports Programmer  <a href = "https://www.stopstalk.com/user/profile/khalid58">[ 📈 ]</a> </h3>
 
 [![](https://visitcount.itsvg.in/api?id=khalid586&icon=0&color=11)](https://visitcount.itsvg.in)
 
