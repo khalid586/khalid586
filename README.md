@@ -11,7 +11,7 @@
 
   <ul>
     <li>💻Frontend Developer</li>
-    <li>🏆ICPC Dhaka Regionalist ➡️ <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU">[ <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "30px" src="images.png"> ]</a> </li>
+    <li><b>🏆ICPC Dhaka Regionalist</b> ➡️ <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU">[ <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "30px" src="images.png"> ]</a> </li>
     <li>📝 Problem Author ➡️ <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8">[ <img align="center" alt="Toph" width="30px" src="emblem_120p.png"> ]</li>
     <li>📫 Reach me ➡️ <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg" /></a> <a href = "mailto:khalidcomitlla58@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /></a> <a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" height="30" width="40" /></a></li>
   </ul> 
@@ -41,6 +41,8 @@
 # 📈 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=chartreuse-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img  width="200" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+
 
 <!--
 ## 🏆 GitHub Trophies
