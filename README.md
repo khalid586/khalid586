@@ -1,6 +1,6 @@
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="175px"/></a>
 <h1 align="center"> 👨🏻‍🎓khalid abdullah</h1>
-<h2 align="center"> 💻Frontend Dev | 🎮 Sports Programmer </h2>
+<h2 align="center"> 💻Frontend Dev |<a href = "https://www.stopstalk.com/user/profile/khalid58"> 🎮 Sports Programmer </a> </h2>
 
 [![](https://visitcount.itsvg.in/api?id=khalid586&icon=0&color=11)](https://visitcount.itsvg.in)
 
