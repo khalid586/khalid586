@@ -41,9 +41,9 @@
 # 📈 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=chartreuse-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img  width="200" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-
+<p align = "center"><img  width="400" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+</p>
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khalid586&theme=radical&no-frame=false&no-bg=true&margin-w=4)
