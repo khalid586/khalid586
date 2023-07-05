@@ -8,12 +8,12 @@
 
 
 <div>
-  <h1 dir="center" align = "center"> <strong> <img src="https://www.lambdatest.com/resources/images/news24.gif" width="70" data-animated-image="" >  About Me </strong></h1>
+  <h1 align = "center"> 👨🏻‍🎓About Me </h1>
   
   <img align="right" alt="Coding" width="400" height="240" src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47lduj0d53b8e9fk19rq8t0bm2z2zroj50tmzjuf4r&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
   <ul>
-    <li>💻Frontend Developer</li>
-    <li><b>🏆ICPC Dhaka Regionalist</b> ➡️ <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU">[ <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "30px" src="images.png"> ]</a> </li>
+    <li><img src="https://www.lambdatest.com/resources/images/news24.gif" width="20" data-animated-image="" > Frontend Developer</li>
+    <li><b> <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="20" data-animated-image="" > ICPC Dhaka Regionalist</b> ➡️ <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU">[ <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "30px" src="images.png"> ]</a> </li>
     <li>📝 Problem Author ➡️ <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8">[ <img align="center" alt="Toph" width="30px" src="emblem_120p.png"> ]</li>
     <li>📫 Reach me ➡️ <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg" /></a> <a href = "mailto:khalidcomitlla58@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /></a> <a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" height="30" width="40" /></a></li>
   </ul> 
