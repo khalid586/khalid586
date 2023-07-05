@@ -10,7 +10,7 @@
   
   <img align="right" alt="Coding" width="400" height="240" src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47lduj0d53b8e9fk19rq8t0bm2z2zroj50tmzjuf4r&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
   <ul>
-    <li><img src="https://www.lambdatest.com/resources/images/news24.gif" width="20" data-animated-image="" > Frontend Developer</li>
+    <li><img src="https://www.lambdatest.com/resources/images/news24.gif" width="30" data-animated-image="" > Frontend Developer</li>
     <li><b> <img align="center" alt="Khalid abdullah | ICPC" width="20px" height = "15px" src="images.png"> ICPC Dhaka Regionalist</b> ➡️ <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="images.png"> ICPC Credential</a> </li>
     <li>📝 Problem Author ➡️ <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8">[ <img align="center" alt="Toph" width="30px" src="emblem_120p.png"> ]</li>
     <li>📫 Reach me ➡️ <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg" /></a> <a href = "mailto:khalidcomitlla58@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /></a> <a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" height="30" width="40" /></a></li>
