@@ -39,7 +39,7 @@
 
 
 
-# 📈 GitHub Stats
+# <img align="center" alt="Khalid abdullah | ICPC" width="60px" src="https://cdn.dribbble.com/users/962944/screenshots/14138307/media/ca3377660c3d2053c9d91ac175871429.gif"> GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=chartreuse-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
