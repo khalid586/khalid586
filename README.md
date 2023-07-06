@@ -1,6 +1,6 @@
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"" height="175px"/></a>
 <h1 align="center"> 👋🏻Assalamu Alaikum I'm <br>Khalid Abdullah</h1>
-<h2 align="center"> <img src="https://www.lambdatest.com/resources/images/news24.gif" width="30" data-animated-image="" >  Frontend Dev  | <img src = "BD FLAG.jpg" width = "25px"> Sports Programmer <a href = "https://www.stopstalk.com/user/profile/khalid58">@[ <img align="center" alt="Khalid abdullah | ICPC" width="30px" height = "15px" src="images.png"> ]</a> </h2>
+<h2 align="center"><img src="https://www.lambdatest.com/resources/images/news24.gif" width="30" data-animated-image="" >  Frontend Dev  | <img src = "BD FLAG.jpg" width = "25px"> Bangladeshi Sports Programmer </h2>
                                                                                                                                                                                                          
 [![](https://visitcount.itsvg.in/api?id=khalid586&icon=0&color=11)](https://visitcount.itsvg.in)
 
