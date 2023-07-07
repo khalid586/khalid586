@@ -3,11 +3,18 @@
 <h2 align="center"><img src="https://www.lambdatest.com/resources/images/news24.gif" width="30" data-animated-image="" >  Frontend Dev  | <img src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "25px"> Bangladeshi Sports Programmer </h2>
                                                                                                                                                                                                          
 [![](https://visitcount.itsvg.in/api?id=khalid586&icon=0&color=11)](https://visitcount.itsvg.in)
-
+<details>
+  <summary>
+    My Dream
+  </summary>
+  <ul>
+      <li><b> Representing my <img src = "assets/BD%20waving%20flag.gif" width = "20px"> country at the <img src =      "images.png" width = "20px" height = "15px"> International Arena and wave the Flag <img src = "assets/BD%20waving%20flag.gif" width = "20px"></b>
+      </li>
+  </ul>
+</details>
 
 <div>
   <h1 align = "center"> 👨🏻‍🎓About Me </h1>
-  
   <img align="right" alt="Coding" width="400" height="240" src="assets/green%20stat.gif"> 
   <ul>
     <li> <img src="assets/typing%20cat.gif" width="30" data-animated-image="" > Frontend Developer</li>
@@ -54,3 +61,4 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="30" data-animated-image="" >
 -->
+
