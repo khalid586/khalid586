@@ -1,6 +1,6 @@
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="assets/banner%20gif.gif"" height="175px"/></a>
-<h1 align="center"> 👋🏻Assalamu Alaikum I'm <br><img src = "BD FLAG.jpg" width = "40px"> Khalid Abdullah</h1>
-<h2 align="center"><img src="https://www.lambdatest.com/resources/images/news24.gif" width="30" data-animated-image="" >  Frontend Dev  | <img src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "25px"> Bangladeshi Sports Programmer </h2>
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="assets/banner%20gif.gif"></a>
+<h1 align="center"> 👋🏻Assalamu Alaikum I'm <br><img src = "BD FLAG.jpg" width = "40px"><i> Khalid Abdullah</h1>
+<h4 align="center"><img src="https://www.lambdatest.com/resources/images/news24.gif" width="30" data-animated-image="" >  Frontend Dev  | <img src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "25px"> Bangladeshi Sports Programmer </i></h4>
                                                                                                                                                                                                          
 [![](https://visitcount.itsvg.in/api?id=khalid586&icon=0&color=11)](https://visitcount.itsvg.in)
 <details>
@@ -8,7 +8,7 @@
     My Dream
   </summary>
   <ul>
-      <li><b> Representing my <img src = "assets/BD%20waving%20flag.gif" width = "20px"> country at the <img src =      "images.png" width = "20px" height = "15px"> International Arena and wave the Flag <img src = "assets/BD%20waving%20flag.gif" width = "20px"></b>
+      <li><i> Representing my <img src = "assets/BD%20waving%20flag.gif" width = "20px"> country at the <img src =      "images.png" width = "20px" height = "15px"> International Arena and wave the Flag <img src = "assets/BD%20waving%20flag.gif" width = "20px"></i>
       </li>
   </ul>
 </details>
@@ -18,7 +18,7 @@
   <img align="right" alt="Coding" width="400" height="240" src="assets/green%20stat.gif"> 
   <ul>
     <li> <img src="assets/typing%20cat.gif" width="30" data-animated-image="" > Frontend Developer</li>
-    <li><b><img src = "assets/BD%20waving%20flag.gif" width = "20px"> ICPC Dhaka Regionalist</b> ➡️ <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="images.png"> ICPC Credential</a> </li>
+    <li><b><img src = "assets/BD%20waving%20flag.gif" width = "20px"> <i>ICPC Dhaka Regionalist </i></b> ➡️ <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="images.png"> ICPC Credential</a> </li>
     <li>📝 Problem Author ➡️ <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"> <img align="center" alt="Toph" width="30px" src="emblem_120p.png"> Toph</li>
     <li>📫 Reach me ➡️ <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg" /></a> <a href = "mailto:khalidcomilla58@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /></a> <a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" height="30" width="40" /></a></li>
   </ul> 
