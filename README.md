@@ -8,7 +8,7 @@
     My Dream
   </summary>
   <ul>
-      <li><i> Representing my <img src = "assets/BD%20waving%20flag.gif" width = "20px"> country at the <img src =      "images.png" width = "20px" height = "15px"> International Arena and wave the Flag <img src = "assets/BD%20waving%20flag.gif" width = "20px"></i>
+      <li><i> Representing <img src = "assets/BD%20waving%20flag.gif" width = "20px"><b>Bangladesh </b> at the <img src =      "images.png" width = "20px" height = "15px"> GLOBAL Arena and wave the Flag <img src = "assets/BD%20waving%20flag.gif" width = "20px"></i>
       </li>
   </ul>
 </details>
