@@ -63,7 +63,7 @@
 -->
 
 <h1> <img align="center" alt="Experience" width="50px" src="assets/purple stat.gif.crdownload">  Experience </h1>
-
+<hr>
 <ul align = "left">
     <li ><b>Pariticipant at 5+ Onsite National programming competitions which includes 3x IUPC and 2x ICPC. <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="images.png"> ICPC Credential</a> </b> </li>
     <li><b>Solved above 1000 algorithmic problems on various coding platforms.<img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://www.stopstalk.com/user/profile/khalid58">  Statistics </b></a></li>
@@ -80,11 +80,12 @@
     <li><b> Educational Content Creator on  <img align="center" alt="YouTube" width="20px" height = "15px" src="assets/youtube.png">.</b></li>
     
 </ul>
-
+<hr>
 <br>
 
-<h1> <img align="center" alt="Achievements" width="50px" src="https://cdn.dribbble.com/users/596809/screenshots/2673810/dribbble-awesomeness.gif">  Achievements </h1>
 
+<h1> <img align="center" alt="Achievements" width="50px" src="https://cdn.dribbble.com/users/596809/screenshots/2673810/dribbble-awesomeness.gif">  Achievements </h1>
+<hr>
 <ul align = "left">
     <li>Ranked <b> 81 <sup> st </sup> </b>(out of 20000+ registered participants) in Codechef October Challenge 2021.<img align="center" alt="Achievements" width="20px" src="https://cdn.dribbble.com/users/539372/screenshots/2606981/media/efef4a92bbf18f802c95445f71b76267.gif"><a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> Ranklist</a></li>
     <li>Ranked <b>268<sup>th</sup></b>(out of 1700+ registered teams) in ICPC Asia Dhaka Regional online preli 2021 and qualified for Onsite Round. <img align="center" alt="Achievements" width="20px" src="https://cdn.dribbble.com/users/539372/screenshots/2606981/media/efef4a92bbf18f802c95445f71b76267.gif"><a href = "https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings?page=2"> Ranklist</a></li> 
@@ -99,3 +100,4 @@
     <li> Ranked <b> 189 <sup>th </sup></b> in HSC Exam 2019(Comilla Board). </li>
     
 </ul>
+<hr>
