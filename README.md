@@ -20,6 +20,7 @@
     <li> <img src="assets/typing%20cat.gif" width="30" data-animated-image="" > Frontend Developer</li>
     <li><b><img src = "assets/BD%20waving%20flag.gif" width = "20px"> <i>ICPC Dhaka Regionalist </i></b> ➡️ <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="images.png"> ICPC Credential</a> </li>
     <li>📝 Problem Author ➡️ <a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"> <img align="center" alt="Toph" width="30px" src="emblem_120p.png"> Toph</li>
+    <li><img align="center" alt="YouTube" width="20px" height = "15px" src="assets/youtube.png"><b> Educational Content Creator</b></li>
     <li>📫 Reach me ➡️ <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg" /></a> <a href = "mailto:khalidcomilla58@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /></a> <a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" height="30" width="40" /></a></li>
   </ul> 
 </div>
@@ -77,7 +78,7 @@
     <li><b>Participated in Intra University Robotics Competitions.</b></li> 
     <li><b>Participated in several Online Hackathons.</b></li>
     <li><b>Represented my department at Inter Department Debate Competition. </b> <img align="center" alt="Debate" width="60px" height = "35px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif">[Glimpse of myself raising a point of information]</a></li>
-    <li><b> Educational Content Creator on  <img align="center" alt="YouTube" width="20px" height = "15px" src="assets/youtube.png">.</b></li>
+    
     
 </ul>
 <hr>
