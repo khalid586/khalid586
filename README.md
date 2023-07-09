@@ -97,8 +97,7 @@
     <li>Ranked <b> 3428 <sup> th </sup></b>(out of 8500+ registered participants) in Codeforces Round 773 (Div. 2).<img  width="20px" src="https://cdn.dribbble.com/users/539372/screenshots/2606981/media/efef4a92bbf18f802c95445f71b76267.gif"><a href = "https://codeforces.com/contest/1642/standings/participant/128848941#p128848941">  Ranklist</a>
     </li>
     <li>Ranked <b>4<sup>th</sup></b> at Intra University LFR competition.</li>
-    <li>Ranked <b>23<sup>rd</sup></b> at Physics Olympiad 2018(Higher Secondary level ,Comilla region) and qualified for the National Round.</li>
-    <li> Ranked <b> 189 <sup>th </sup></b> in HSC Exam 2019(Comilla Board). </li>
+    
     
 </ul>
 <hr>
