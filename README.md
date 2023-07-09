@@ -1,6 +1,6 @@
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="assets/banner%20gif.gif"></a>
 <h1 align="center"> 👋🏻Assalamu Alaikum I'm <br><img src = "BD FLAG.jpg" width = "40px"><i> Khalid Abdullah</h1>
-<h4 align="center"><img src="assets/dev.gif" width="25px" data-animated-image="" >  Frontend Dev  | <img src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "25px"> Bangladeshi Sports Programmer </i></h4>
+<h4 align="center"><img src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif" width="25px" data-animated-image="" >  Frontend Dev  | <img src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "25px"> Bangladeshi Sports Programmer </i></h4>
                                                                                                                                                                                                          
 [![](https://visitcount.itsvg.in/api?id=khalid586&icon=0&color=11)](https://visitcount.itsvg.in)
 <details>
@@ -24,7 +24,7 @@
   </ul> 
 </div>
 
-<h3 align="left">  <img align="center" alt="Khalid abdullah | ICPC" width="30px" src="assets/tools 2.gif"> Online Judge Profiles</h3>
+<h3 align="left">  <img align="center" alt="Khalid abdullah | ICPC" width="50px" src="assets/Tools 2.gif"> Online Judge Profiles</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/khalid58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khalid58" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/khalid10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height="30" width="40" /></a>
@@ -46,7 +46,7 @@
 
 
 
-# <p> <img align="center" alt="Khalid abdullah | ICPC" width="50px" src="assets/stat red.gif"> GitHub Stats </p>
+# <p> <img align="center" alt="Khalid abdullah | ICPC" width="50px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"> GitHub Stats </p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=chartreuse-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
