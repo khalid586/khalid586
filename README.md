@@ -75,7 +75,7 @@
     <li><b> Worked as an Organizer at BAIUST CSE FEST(Programming Contest Section). </b></li>
     <li> <b> Conducted Workshops for 1<sup>st</sup> and 2<sup>nd </sup>  year students.</b></li>
     <li><b>Mentored junior Competitive Programmers of our university. </b></li>
-    <li><b>Participated in Intra University Robotics Competitions.</b></li> 
+    <li><b>Represented my department in Intra University Robotics Competition.</b></li> 
     <li><b>Participated in several Online Hackathons.</b></li>
     <li><b>Represented my department at Inter Department Debate Competition. </b> <img align="center" alt="Debate" width="60px" height = "35px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif">[Glimpse of Raising a Point of Information]</a></li>
     
