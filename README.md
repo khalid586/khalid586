@@ -85,7 +85,7 @@
 <br>
 
 
-<h1> <img align="center" alt="Achievements" width="50px" src="https://cdn.dribbble.com/users/596809/screenshots/2673810/dribbble-awesomeness.gif">  Achievements </h1>
+<h1> <img align="center" alt="Achievements" width="50px" src="https://cdn.dribbble.com/users/596809/screenshots/2673810/dribbble-awesomeness.gif"> Competitive Rankings </h1>
 <hr>
 <ul align = "left">
     <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked <b> 81 <sup> st </sup> </b>(out of 20000+ registered participants) in Codechef October Challenge 2021.<img align="center" alt="Achievements" width="20px" src="https://cdn.dribbble.com/users/539372/screenshots/2606981/media/efef4a92bbf18f802c95445f71b76267.gif"><a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> Ranklist</a></li>
