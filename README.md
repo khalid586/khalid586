@@ -63,7 +63,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="30" data-animated-image="" >
 -->
 
-<h1> <img align="center" alt="Experience" width="50px" src="assets/purple stat.gif.crdownload">  Experience </h1>
+<h1> <img align="center" alt="Experience" width="70px" src="assets/purple stat.gif.crdownload">  Experience </h1>
 <hr>
 <ul align = "left">
     <li ><b>Represented my University in 5+ Onsite National Programming Competitions which includes 2x  <img align="center" alt="Khalid abdullah | ICPC" width="23px" height = "18" src="images.png"> ICPC Asia Dhaka Regional Contest. <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="images.png"> ICPC Credential</a> </b> </li>
@@ -85,7 +85,7 @@
 <br>
 
 
-<h1> <img align="center" alt="Achievements" width="50px" src="https://cdn.dribbble.com/users/596809/screenshots/2673810/dribbble-awesomeness.gif"> Competitive Rankings </h1>
+<h1> <img align="center" alt="Achievements" width="70px" src="https://cdn.dribbble.com/users/596809/screenshots/2673810/dribbble-awesomeness.gif"> Competitive Rankings </h1>
 <hr>
 <ul align = "left">
     <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked <b> 81 <sup> st </sup> </b>(out of 20000+ registered participants) in Codechef October Challenge 2021.<img align="center" alt="Achievements" width="20px" src="https://cdn.dribbble.com/users/539372/screenshots/2606981/media/efef4a92bbf18f802c95445f71b76267.gif"><a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> Standings</a></li>
