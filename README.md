@@ -77,7 +77,7 @@
     <li><b>Mentored junior Competitive Programmers of our university. </b></li>
     <li><b>Represented my department in Intra University Robotics Competition.</b></li> 
     <li><b>Participated in several Online Hackathons.</b></li>
-    <li><b>Represented my department at Inter Department Debate Competition. </b> <img align="center" alt="Debate" width="60px" height = "35px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif">[Glimpse of Raising a Point of Information]</a></li>
+    <li><b>Represented my department at Inter Department Debate Competition. </b> <img align="center" alt="Debate" width="60px" height = "35px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif">[Debate Argument]</a></li>
     
     
 </ul>
