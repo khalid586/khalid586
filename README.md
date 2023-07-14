@@ -63,21 +63,22 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="30" data-animated-image="" >
 -->
 
-<h1> <img align="center" alt="Experience" width="70px" src="assets/purple stat.gif.crdownload">  Experience </h1>
+<h1> <img align="center" alt="Experience" width="70px" src="assets/purple stat.gif.crdownload"> Activities (UnderGrad)</h1>
+
 <hr>
 <ul align = "left">
-    <li ><b>Represented my University in 5+ Onsite National Programming Competitions which includes 2x  <img align="center" alt="Khalid abdullah | ICPC" width="23px" height = "18" src="images.png"> ICPC Asia Dhaka Regional Contest. <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="images.png"> ICPC Credential</a> </b> </li>
-    <li><b>Solved 1000+ algorithmic problems on various coding platforms.<img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://www.stopstalk.com/user/profile/khalid58">  Statistics </b></a></li>
-    <li><b>Participated in 50+ Online Programming Competitions. <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"><a href = "https://www.stopstalk.com/user/profile/khalid58"> Statistics </b></a></li>
+    <li>Represented my University in <b>5+ Onsite National Programming Competitions</b> which includes <b>2x  <img align="center" alt="Khalid abdullah | ICPC" width="23px" height = "18" src="images.png"> ICPC Asia Dhaka Regional Contest. </b><a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="images.png"> ICPC Credential</a> </b> </li>
+    <li><b>Solved 1000+ algorithmic problems </b>on various coding platforms.<img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://www.stopstalk.com/user/profile/khalid58"> <b> Stats </b></a></li>
+    <li>Participated in <b>50+ Online Programming Competitions. <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"><a href = "https://www.stopstalk.com/user/profile/khalid58"> Stats </b></a></li>
     <li> <b> Problemsetter at Junior Intra University Programming Contest which included resposibilites such as <br><a href = "https://github.com/khalid586/Problem-Setting/tree/main/Problem%20statements">preparing problem statements </a>, <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Solutions"> Writing solutions </a> and <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Test%20cases"> Test Cases . </a> Contest Ref ➡️ </b><a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"> <img align="center" alt="Toph" width="30px" src="emblem_120p.png"> C. Save money | F. Evenly Divisible </a>
     </li>
-    <li><b> Participated in Google Kickstart , CodeJam and Facebook HackerCup. </b></li>
-    <li><b> Worked as an Organizer at BAIUST CSE FEST(Programming Contest Section). </b></li>
-    <li> <b> Conducted Workshops for 1<sup>st</sup> and 2<sup>nd </sup>  year students.</b></li>
-    <li><b>Mentored junior Competitive Programmers of our university. </b></li>
-    <li><b>Represented my Department at the Intra University Robo Soccer Competition and reached the Semi-Finals.</b></li> 
-    <li><b>Participated in several Online Hackathons.</b></li>
-    <li><b>Represented my department at the Inter Department Debate Competition. </b> <img align="center" alt="Debate" width="60px" height = "35px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif"><b>[Glimpse of an Argument]</b></a></li>
+    <li> Participated in Google Kickstart , CodeJam and Facebook HackerCup.</li>
+    <li> Worked as an <b>Organizer</b> at BAIUST CSE FEST(Programming Contest Section). </li>
+    <li>Conducted Workshops for 1<sup>st</sup> and 2<sup>nd </sup>  year students.</li>
+    <li>Mentored junior Competitive Programmers of our university. </li>
+    <li>Represented my Department at the Intra University Robo Soccer Competition and reached the Semi-Finals.</li> 
+    <li>Participated in several Online Hackathons.</li>
+    <li>Represented my department at the <b>Inter Department Debate Competition. </b> <img align="center" alt="Debate" width="60px" height = "35px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif"><b>[Glimpse of an Argument]</b></a></li>
     
     
 </ul>
