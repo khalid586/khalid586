@@ -63,7 +63,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="30" data-animated-image="" >
 -->
 
-<h1> <img align="center" alt="Experience" width="70px" src="assets/purple stat.gif.crdownload"> Activities (UnderGrad)</h1>
+<h1> <img align="center" alt="Experience" width="70px" src="assets/purple stat.gif.crdownload"> Activities [UnderGrad]</h1>
 
 <hr>
 <ul align = "left">
