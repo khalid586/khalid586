@@ -63,22 +63,23 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="30" data-animated-image="" >
 -->
 
-<h1> <img align="center" alt="Experience" width="70px" src="assets/purple stat.gif.crdownload"> Activities [UnderGrad]</h1>
+<h1> <img align="center" alt="Activities" width="70px" src="assets/purple stat.gif.crdownload"> Activities [UnderGrad] <img align="center" alt="Khalid abdullah | ICPC" width="70px" height = "60px" src="assets/baiustLogo.jpg"></h1>
 
 <hr>
 <ul align = "left">
-    <li>Represented my University in <b>5+ Onsite National Programming Competitions</b> which includes <b>2x  <img align="center" alt="Khalid abdullah | ICPC" width="23px" height = "18" src="images.png"> ICPC Asia Dhaka Regional Contest. </b><a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="images.png"><b> [ ICPC Credential ]</b></a> </b> </li>
+    <li>Represented my <img align="center" alt="Baiust" width="35px" height = "25px" src="assets/baiustLogo.jpg">University at <b>5+ Onsite National Programming Competitions</b> which includes <b>2x  <img align="center" alt="Khalid abdullah | ICPC" width="23px" height = "18" src="images.png"> ICPC Asia Dhaka Regional Contest. </b><a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="images.png"><b> [ ICPC Credential ]</b></a> </b> </li>
     <li><b>Solved 1000+ algorithmic problems </b>on various coding platforms.<img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://www.stopstalk.com/user/profile/khalid58"> <b> [Stats] </b></a></li>
     <li>Participated in <b>50+ Online Programming Competitions. <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"><a href = "https://www.stopstalk.com/user/profile/khalid58"> [Stats] </b></a></li>
-    <li> <b> Problemsetter at Junior Intra University Programming Contest which included resposibilites such as <br>preparing <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Problem%20statements">problem statements </a>, Writing <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Solutions">solutions </a> and <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Test%20cases"> Test Cases . </a> Contest Ref ➡️ </b><a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"> <img align="center" alt="Toph" width="30px" src="emblem_120p.png"> C. Save money | F. Evenly Divisible </a>
+    <li> <b> Problemsetter </b>at Junior Intra University Programming Contest which included resposibilites such as <br>preparing <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Problem%20statements">problem statements </a>, Writing <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Solutions">solutions </a> and <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Test%20cases"> Test Cases . </a> Contest Ref ➡️ </b><a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"> <img align="center" alt="Toph" width="30px" src="emblem_120p.png"> C. Save money | F. Evenly Divisible </a>
     </li>
-    <li> Participated in Google Kickstart , CodeJam and Facebook HackerCup.</li>
-    <li> Worked as an <b>Organizer</b> at BAIUST CSE FEST(Programming Contest Section). </li>
+    <li> Worked as an <b>Organizer</b> at <img align="center" alt="CSE Fest" width="40px" height = "25px" src="assets/cse fest.jpg"> BAIUST CSE FEST(Programming Contest Section). </li>
+    <li>Represented my <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="assets/cse.jpg"> Department at the <b>Intra University Robo Soccer Competition</b> and <b>reached the Semi-Finals.</b></li>
+    <li>Represented my <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="assets/cse.jpg"> Department at the <b>Inter Department Debate Competition. </b> <img align="center" alt="Debate" width="40px" height = "25px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif"><b>[Glimpse of an Argument]</b></a></li>
     <li>Conducted Workshops for 1<sup>st</sup> and 2<sup>nd </sup>  year students.</li>
-    <li>Mentored junior Competitive Programmers of our university. </li>
-    <li>Represented my Department at the Intra University Robo Soccer Competition and reached the Semi-Finals.</li> 
+    <li>Mentored Junior Competitive Programmers of our University. </li>
+    <li>Participated in Global coding contest such as Google Kickstart , CodeJam and Facebook HackerCup.</li>
     <li>Participated in several Online Hackathons.</li>
-    <li>Represented my department at the <b>Inter Department Debate Competition. </b> <img align="center" alt="Debate" width="60px" height = "35px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif"><b>[Glimpse of an Argument]</b></a></li>
+    
     
     
 </ul>
@@ -86,7 +87,7 @@
 <br>
 
 
-<h1> <img align="center" alt="Achievements" width="70px" src="https://cdn.dribbble.com/users/596809/screenshots/2673810/dribbble-awesomeness.gif"> Competitive Rankings </h1>
+<h1> <img align="center" alt="Achievements" width="70px" src="https://cdn.dribbble.com/users/596809/screenshots/2673810/dribbble-awesomeness.gif"> Competitive Rankings <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "70px"> </h1>
 <hr>
 <ul align = "left">
     <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked <b> 81 <sup> st </sup> </b>(out of 20000+ registered participants) in Codechef October Challenge 2021.<img align="center" alt="Achievements" width="20px" src="assets/Tools.gif"><a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> <b>[Standings]</b> </a></li>
@@ -102,7 +103,6 @@
     
 </ul>
 <hr>
-
 
 
 
