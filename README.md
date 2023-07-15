@@ -48,8 +48,7 @@
 
 
 # <p> <img align="center" alt="Khalid abdullah | ICPC" width="70px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"> GitHub Stats </p>
-<p><img align = "left" width = "400px" height = "300px" src = "https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false"> <img  width = "350px" height = "300px" src = "https://github-readme-stats.vercel.app/api?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"></p>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false)
 
 <!--
 ## 🏆 GitHub Trophies
