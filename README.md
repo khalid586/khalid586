@@ -48,8 +48,8 @@
 
 
 # <p> <img align="center" alt="Khalid abdullah | ICPC" width="70px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"> GitHub Stats </p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+<p><img align = "left" width = "400px" height = "300px" src = "https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false"> <img  width = "350px" height = "300px" src = "https://github-readme-stats.vercel.app/api?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"></p>
+
 
 <!--
 ## 🏆 GitHub Trophies
@@ -59,11 +59,10 @@
 </p>
 
 <img align="right" alt="Coding" width="350" height="240" src="https://www.lambdatest.com/resources/images/news24.gif">
-
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="30" data-animated-image="" >
-
 // Most used language
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 -->
 
 <h1> <img align="center" alt="Activities" width="70px" src="assets/purple stat.gif.crdownload"> Activities [UnderGrad] <img align="center" alt="Khalid abdullah | ICPC" width="70px" height = "60px" src="assets/baiustLogo.jpg"></h1>
