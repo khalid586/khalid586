@@ -45,13 +45,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=khalid586&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 -->
 
-
-
-# <p> <img align="center" alt="Khalid abdullah | ICPC" width="70px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"> GitHub Stats </p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<center> <img width = "500px" src ="https://github-readme-stats.vercel.app/api?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true"> </center>
-
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khalid586&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -65,7 +58,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 -->
-
+<br>
 <h1> <img align="center" alt="Activities" width="70px" src="assets/purple stat.gif.crdownload"> Activities [UnderGrad] <img align="center" alt="Khalid abdullah | ICPC" width="70px" height = "60px" src="assets/baiustLogo.jpg"></h1>
 
 <hr>
@@ -106,6 +99,12 @@
     
 </ul>
 <hr>
+
+
+# <p> <img align="center" alt="Khalid abdullah | ICPC" width="70px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"> GitHub Stats </p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<center> <img width = "500px" src ="https://github-readme-stats.vercel.app/api?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true"> </center>
 
 
 
