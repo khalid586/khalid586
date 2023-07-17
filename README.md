@@ -59,7 +59,7 @@
 
 -->
 <br>
-<h1> <img align="center" alt="Activities" width="70px" src="assets/purple stat.gif.crdownload"> Activities [UnderGrad] <img align="center" alt="Khalid abdullah | ICPC" width="70px" height = "60px" src="assets/baiustLogo.jpg"></h1>
+<h1> <img align="center" alt="Activities" width="70px" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"> Activities [UnderGrad] <img align="center" alt="Khalid abdullah | ICPC" width="70px" height = "60px" src="assets/baiustLogo.jpg"></h1>
 
 <hr>
 <ul align = "left">
@@ -83,7 +83,7 @@
 <br>
 
 
-<h1> <img align="center" alt="Achievements" width="70px" src="https://cdn.dribbble.com/users/596809/screenshots/2673810/dribbble-awesomeness.gif"> Competitive Rankings <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "70px"> </h1>
+<h1> <img align="center" alt="Achievements" width="70px" src="assets/purple stat.gif.crdownload"> Competitive Rankings <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "70px"> </h1>
 <hr>
 <ul align = "left">
     <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked <b> 81 <sup> st </sup> </b>(out of 20000+ registered participants) in Codechef October Challenge 2021.<img align="center" alt="Achievements" width="20px" src="assets/Tools.gif"><a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> <b>[Standings]</b> </a></li>
