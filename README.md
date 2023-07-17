@@ -59,7 +59,7 @@
 
 -->
 <br>
-<h1> <img align="center" alt="Activities" width="70px" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"> Activities [UnderGrad] <img align="center" alt="Khalid abdullah | ICPC" width="70px" height = "60px" src="assets/baiustLogo.jpg"></h1>
+<h1> <img align="center" alt="Activities" width="90px" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"> Activities [UnderGrad] <img align="center" alt="Khalid abdullah | ICPC" width="70px" height = "60px" src="assets/baiustLogo.jpg"></h1>
 
 <hr>
 <ul align = "left">
@@ -101,12 +101,11 @@
 <hr>
 
 
-# <p> <img align="center" alt="Khalid abdullah | ICPC" width="70px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"> GitHub Stats </p>
+# <p> <img align="center" alt="Khalid abdullah | stats" width="70px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"> GitHub Stats </p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false)
+
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<center> <img width = "500px" src ="https://github-readme-stats.vercel.app/api?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true"> </center>
 
-
-
-
-
+<img width = "500px" src = "https://github-readme-stats.vercel.app/api?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true")
+-->
