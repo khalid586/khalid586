@@ -101,6 +101,7 @@
 <hr>
 <br>
 <h1> <img align = "center" alt = "Result" src = "assets/stat.gif" width = "60px"> Academic Achievements </h1>
+<hr>
 <ul>
   <li><img align="center" alt="academics" width="25px" height = "15px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"> One of the Top Performers of OOP and Data Structure & Algorithms course.</li>
   <li><img align="center" alt="academics" width="25px" height = "15px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"> Ranked <b>189<sup>th</sup> at </b>Higher Secondary Certificate Exam 2019 (Comilla Board). <img align="center" alt="academics" width="25px" height = "15px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b>[Ranklist] </b></a></li>
