@@ -99,7 +99,15 @@
     
 </ul>
 <hr>
-
+<br>
+<h1> <img align = "center" alt = "Result" src = "assets/stat.gif" width = "60px"> Academic Achievements </h1>
+<ul>
+  <li><img align="center" alt="academics" width="25px" height = "15px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"> One of the Top Performers of OOP and Data Structure & Algorithms course.</li>
+  <li><img align="center" alt="academics" width="25px" height = "15px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"> Ranked <b>189<sup>th</sup> at </b>Higher Secondary Certificate Exam 2019 (Comilla Board). <img align="center" alt="academics" width="25px" height = "15px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b>[Ranklist] </b></a></li>
+  <li><img align="center" alt="academics" width="25px" height = "15px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 (Higher Secondary Division) and qualified for the National Round. </li>
+</ul>
+<hr>
+<br>
 
 # <p> <img align="center" alt="Khalid abdullah | stats" width="70px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"> GitHub Stats </p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false)
