@@ -2,6 +2,7 @@
 <h1 align="center"> 👋🏻Assalamu Alaikum I'm <br><img src = "BD FLAG.jpg" width = "40px"><i> Khalid Abdullah</h1>
 <h4 align="center"> <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "25px"> Bangladeshi Sports Programmer | <img align = "center" src = "https://www.lambdatest.com/resources/images/news24.gif" width = "25px"> Frontend Developer  </i></h4>
 
+<!-- For resume [![Resume](https://img.shields.io/badge/-Resume-success)]()-->
                                                                                                                                                               
 [![](https://visitcount.itsvg.in/api?id=khalid586&icon=0&color=11)](https://visitcount.itsvg.in)
 <details>
