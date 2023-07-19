@@ -1,7 +1,8 @@
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="assets/banner%20gif.gif"></a>
 <h1 align="center"> 👋🏻Assalamu Alaikum I'm <br><img src = "BD FLAG.jpg" width = "40px"><i> Khalid Abdullah</h1>
-<h4 align="center"> <img src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "25px"> Bangladeshi Sports Programmer | Frontend Dev  </i></h4>
-                                                                                                                                                                                                         
+<h4 align="center"> <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "25px"> Bangladeshi Sports Programmer | <img align = "center" src = "https://www.lambdatest.com/resources/images/news24.gif" width = "25px"> Frontend Developer  </i></h4>
+
+                                                                                                                                                              
 [![](https://visitcount.itsvg.in/api?id=khalid586&icon=0&color=11)](https://visitcount.itsvg.in)
 <details>
   <summary>
@@ -14,7 +15,7 @@
 </details>
 
 <div>
-  <h1 align = "center"> 👨🏻‍🎓About Me </h1>
+  <h1 align = "center"> <img align = "center" src = "https://cdn.dribbble.com/users/99287/screenshots/3839839/media/0558e58d42aaf75dd74436b78605e343.gif" width = "50px"> About Me </h1>
   <img align="right" alt="Coding" width="400" height="240" src="assets/green%20stat.gif"> 
   <ul>
     <li> <img src="assets/typing%20cat.gif" width = "25px" height = "20px"  data-animated-image="" > Frontend Developer</li>
@@ -59,11 +60,11 @@
 
 -->
 <br>
-<h1> <img align="center" alt="Activities" width="90px" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"> Activities [UnderGrad] <img align="center" alt="Khalid abdullah | ICPC" width="70px" height = "60px" src="assets/baiustLogo.jpg"></h1>
+<h1> <img align="center" alt="Activities" width="80px" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif"> Activities [UnderGrad] <img align="center" alt="Khalid abdullah | ICPC" width="60px" height = "45px" src="assets/baiustLogo.jpg"></h1>
 
 <hr>
 <ul align = "left">
-    <li>Represented my <img align="center" alt="Baiust" width="30px" height = "25px" src="assets/baiustLogo.jpg"> <b>Institution </b> at <b>5+ Onsite National Programming Competitions</b> which includes <b>2x  <img align="center" alt="Khalid abdullah | ICPC" width="23px" height = "18" src="images.png"> ICPC Asia Dhaka Regional Contest. </b><a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="images.png"><b> [ ICPC Credential ]</b></a> </b> </li>
+    <li>Represented my <img align="center" alt="Baiust" width="25px" height = "20px" src="assets/baiustLogo.jpg"> <b>Institution </b> at <b>5+ Onsite National Programming Competitions</b> which includes <b>2x  <img align="center" alt="Khalid abdullah | ICPC" width="23px" height = "18" src="images.png"> ICPC Asia Dhaka Regional Contest. </b><a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="images.png"><b> [ ICPC Credential ]</b></a> </b> </li>
     <li><b>Solved 1000+ algorithmic problems </b>on various coding platforms.<img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://www.stopstalk.com/user/profile/khalid58"> <b> [Stats] </b></a></li>
     <li>Participated in <b>50+ Online Programming Competitions. <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"><a href = "https://www.stopstalk.com/user/profile/khalid58"> [Stats] </b></a></li>
     <li> <b> Problemsetter </b>at Junior Intra University Programming Contest(IUPC) which included resposibilites such as <br>preparing <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Problem%20statements">problem statements </a>, Writing <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Solutions">solutions </a> and <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Test%20cases"> Test Cases . </a> Contest Ref ➡️ </b><a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"> <img align="center" alt="Toph" width="30px" src="emblem_120p.png"> C. Save money | F. Evenly Divisible </a>
@@ -83,7 +84,7 @@
 <br>
 
 
-<h1> <img align="center" alt="Achievements" width="70px" src="assets/purple stat.gif.crdownload"> Competitive Rankings <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px"> </h1>
+<h1> <img align="center" alt="Achievements" width="90px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"> Competitive Rankings <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px"> </h1>
 <hr>
 <ul align = "left">
     <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked <b> 81 <sup> st </sup> </b>(out of 20000+ registered participants) in Codechef October Challenge 2021.<img align="center" alt="Achievements" width="20px" src="assets/Tools.gif"><a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> <b>[Standings]</b> </a></li>
@@ -100,12 +101,12 @@
 </ul>
 <hr>
 <br>
-<h1> <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/20079/screenshots/3209122/media/f6e88fe415ba8d0cb211afad5f3acc8f.gif" width = "60px"> Academic Achievements </h1>
+<h1> <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/329103/screenshots/1398864/media/7bae9b1274690e15ce3cd80a6f6fb190.gif" width = "70px"> Academic Achievements <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/20079/screenshots/3209122/media/f6e88fe415ba8d0cb211afad5f3acc8f.gif" width = "50px"></h1>
 <hr>
 <ul>
-  <li><img align="center" alt="academics" width="25px" height = "15px" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif"> One of the Top Performers of OOP and Data Structure & Algorithms course.</li>
-  <li><img align="center" alt="academics" width="25px" height = "15px" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif"> Ranked <b>189<sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam 2019 (Comilla Board). <img align="center" alt="academics" width="25px" height = "15px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b>[Ranklist] </b></a></li>
-  <li><img align="center" alt="academics" width="25px" height = "15px" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 (Higher Secondary Division) and qualified for the National Round. </li>
+  <li><img align="center" alt="academics" width="25px" height = "15px" src="assets/purple stat.gif.crdownload"> One of the Top Performers of OOP and Data Structure & Algorithms course.</li>
+  <li><img align="center" alt="academics" width="25px" height = "15px" src="assets/purple stat.gif.crdownload"> Ranked <b>189<sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam 2019 (Comilla Board). <img align="center" alt="academics" width="25px" height = "15px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b>[Ranklist] </b></a></li>
+  <li><img align="center" alt="academics" width="25px" height = "15px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 (Higher Secondary Division) and qualified for the National Round. </li>
 </ul>
 <hr>
 <br>
