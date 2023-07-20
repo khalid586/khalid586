@@ -114,6 +114,7 @@
 
 # <p> <img align="center" alt="Khalid abdullah | stats" width="70px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"> GitHub Stats </p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false)
+<img width = "500px" src = "https://github-readme-stats.vercel.app/api?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true">
 
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
