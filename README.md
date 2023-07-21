@@ -23,10 +23,26 @@
     <li><b><img align = "center" src = "assets/BD%20waving%20flag.gif" width = "35px">  <img align="center" alt="Khalid abdullah | ICPC" width = "30px" height = "22px"  src="images.png"> <i>ICPC Asia Dhaka Regionalist </i></b> </li>
     <li><img align = "center" src = "https://cdn.dribbble.com/users/1397073/screenshots/3722760/media/813d0dbb43ce74500bb1ff162ff91303.gif" width = "25px" height = "20px"> <b> Problem Author</b></li>
     <li><img align="center" alt="YouTube" width="25px" height = "20px" src="assets/youtube.png"><b> Educational Content Creator</b></li>
-    <li><img align = "center" src = "https://cdn.dribbble.com/users/836931/screenshots/2772971/telephone_ring.gif" width = "25px" height = "20px" > Reach me ➡️ <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg" /></a> <a href = "mailto:khalidcomilla58@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /></a><a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" height="30" width="40" /></a></li>
   </ul> 
 </div>
+
 <br>
+<br>
+
+<!-- <li><img align = "center" src = "https://cdn.dribbble.com/users/836931/screenshots/2772971/telephone_ring.gif" width = "25px" height = "20px" > Reach me ➡️ 
+<a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg" /></a> 
+<a href = "mailto:khalidcomilla58@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /></a>
+<a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" height="30" width="40" /></a>
+
+</li> -->
+
+<h1> <img align = "center" src = "https://cdn.dribbble.com/users/6696029/screenshots/15187188/media/554833e162874fab364047f6495aaa4f.gif" width = "70px"> Reach Me</h1>
+<ul>
+  <li> <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg"> <img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"></a> </li>
+  <li> <a href = "mailto:khalidcomilla58@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /> <img align = "center" src = "https://img.shields.io/badge/Khalidcomilla58@gmail.com-%23E60023.svg?"></a>      
+  <li> <a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" width="30" />  <img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah-%231877F2.svg?logo=Facebook&logoColor=white">  </a></li>
+</ul>
+
 <h1 align="left">  <img align="center" alt="Khalid abdullah | ICPC" width="70px" src="assets/Tools.gif"> Online Judge Profiles</h1>
 <p align="left">
 <a href="https://www.codechef.com/users/khalid58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khalid58" height="30" width="40" /></a>
@@ -35,6 +51,7 @@
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khalid58" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@khalidcomilla58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="khalid58" height="30" width="40" /></a>
 </p>
+
 <br>
 
 # <p > <img align="center" alt="Khalid abdullah | ICPC" width="70px" src="assets/Tools 2.gif"> Language & Tools </p>
@@ -60,7 +77,20 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 -->
+
 <br>
+
+<h1> <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/329103/screenshots/1398864/media/7bae9b1274690e15ce3cd80a6f6fb190.gif" width = "70px"> Academic Achievements <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/20079/screenshots/3209122/media/f6e88fe415ba8d0cb211afad5f3acc8f.gif" width = "50px"></h1>
+<hr>
+<ul>
+  <li><img align="center" alt="academics" width="25px" height = "15px" src="assets/purple stat.gif.crdownload"> <b>One of the Top Performers of OOP and Data Structure & Algorithms course</b></li>
+  <li><img align="center" alt="academics" width="25px" height = "15px" src="assets/purple stat.gif.crdownload"> Ranked <b>189<sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam 2019 (Comilla Board) <img align="center" alt="academics" width="25px" height = "17px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b>[Ranklist] </b></a></li>
+  <li><img align="center" alt="academics" width="25px" height = "15px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region(Higher Secondary Division) and Qualified for the National Round </li>
+</ul>
+<hr>
+
+<br>
+
 <h1> <img align="center" alt="Activities" width="80px" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif"> Activities [UnderGrad] <img align="center" alt="Khalid abdullah | ICPC" width="60px" height = "45px" src="assets/baiustLogo.jpg"></h1>
 
 <hr>
@@ -82,6 +112,7 @@
     
 </ul>
 <hr>
+
 <br>
 
 
@@ -89,8 +120,8 @@
 <hr>
 <ul align = "left">
     <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked <b> 81 <sup> st </sup> </b>(out of 20000+ registered participants) in Codechef October Challenge 2021 <img align="center" alt="Achievements" width="20px" src="assets/Tools.gif"><a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> <b>[Standings]</b> </a></li>
-    <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked <b>127<sup>th</sup></b>(out of 165 registered teams) in <img align="center" alt="Khalid abdullah | ICPC" width="20px" height = "15" src="images.png"> ICPC Asia Dhaka Regional 2021 Onsite Round <img align="center" alt="Achievements" width="20px" src="assets/Tools.gif"><a href = "https://algo.codemarshal.org/contests/dhaka-21-main/standings"> <b>[Standings]</b> </a></li> 
-    <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked <b>131<sup>st</sup></b>(out of 162 registered teams) in <img align="center" alt="Khalid abdullah | ICPC" width="20px" height = "15" src="images.png"> ICPC Asia Dhaka Regional 2022 Onsite Round <img align="center" alt="Achievements" width="20px" src="assets/Tools.gif"><a href = "https://algo.codemarshal.org/contests/dhaka-22/standings"> <b>[Standings]</b> </a></li> 
+    <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked <b>127<sup>th</sup></b>(out of 165 QUALIFIED Teams) in <img align="center" alt="Khalid abdullah | ICPC" width="20px" height = "15" src="images.png"> ICPC Asia Dhaka Regional 2021 Onsite Round <img align="center" alt="Achievements" width="20px" src="assets/Tools.gif"><a href = "https://algo.codemarshal.org/contests/dhaka-21-main/standings"> <b>[Standings]</b> </a></li> 
+    <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked <b>131<sup>st</sup></b>(out of 162 QUALIFIED Teams) in <img align="center" alt="Khalid abdullah | ICPC" width="20px" height = "15" src="images.png"> ICPC Asia Dhaka Regional 2022 Onsite Round <img align="center" alt="Achievements" width="20px" src="assets/Tools.gif"><a href = "https://algo.codemarshal.org/contests/dhaka-22/standings"> <b>[Standings]</b> </a></li> 
    <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked <b>268<sup>th</sup></b>(out of 1700+ registered teams) in <img align="center" alt="Khalid abdullah | ICPC" width="20px" height = "15" src="images.png"> ICPC Asia Dhaka Regional online preli 2021 and qualified for Onsite Round <img align="center" alt="Achievements" width="20px" src="assets/Tools.gif"><a href = "https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings?page=2"> <b>[Standings]</b> </a></li> 
     <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked <b>398<sup>th</sup></b>(out of 1600+ registered teams) in <img align="center" alt="Khalid abdullah | ICPC" width="20px" height = "15" src="images.png"> ICPC Asia Dhaka Regional online preli 2022 and qualified for Onsite Round <img align="center" alt="Achievements" width="20px" src= "assets/Tools.gif" ><a href = "https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings?page=2"> <b>[Standings]</b> </a></li> 
     <li><img src = "assets/BD%20waving%20flag.gif" width = "20px"> Ranked  <b>614 <sup> th </sup> </b>(out of 5000+ registered participants) in Codechef Code senso <img align="center" alt="Achievements" width="20px" src= "assets/Tools.gif" > <a href = "https://www.codechef.com/rankings/CSNS21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank"> <b>[Standings]</b> </a></li>
@@ -101,15 +132,7 @@
     
 </ul>
 <hr>
-<br>
-<h1> <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/329103/screenshots/1398864/media/7bae9b1274690e15ce3cd80a6f6fb190.gif" width = "70px"> Academic Achievements <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/20079/screenshots/3209122/media/f6e88fe415ba8d0cb211afad5f3acc8f.gif" width = "50px"></h1>
-<hr>
-<ul>
-  <li><img align="center" alt="academics" width="25px" height = "15px" src="assets/purple stat.gif.crdownload"> One of the Top Performers of OOP and Data Structure & Algorithms course</li>
-  <li><img align="center" alt="academics" width="25px" height = "15px" src="assets/purple stat.gif.crdownload"> Ranked <b>189<sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam 2019 (Comilla Board) <img align="center" alt="academics" width="25px" height = "17px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b>[Ranklist] </b></a></li>
-  <li><img align="center" alt="academics" width="25px" height = "15px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 (Higher Secondary Division) and qualified for the National Round </li>
-</ul>
-<hr>
+
 <br>
 
 # <p> <img align="center" alt="Khalid abdullah | stats" width="70px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"> GitHub Stats </p>
