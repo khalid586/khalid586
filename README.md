@@ -23,7 +23,7 @@
     <li> <img src="assets/typing%20cat.gif" width = "25px" height = "20px"  data-animated-image="" > Frontend Developer</li>
     <li><b><img align = "center" src = "assets/BD%20waving%20flag.gif" width = "35px">  <img align="center" alt="Khalid abdullah | ICPC" width = "30px" height = "22px"  src="images.png"> <i>ICPC Asia Dhaka Regionalist </i></b> </li>
     <li><img align = "center" src = "https://cdn.dribbble.com/users/1397073/screenshots/3722760/media/813d0dbb43ce74500bb1ff162ff91303.gif" width = "25px" height = "20px"><b> Problem Author</b></li>
-    <li><img align = "center" src = "assets/debater.gif" width = "25px" height = "20px"><b> Debater</b></li>
+    <li><img align = "center" src = "assets/speak.webp" width = "25px" height = "20px"><b> Debater</b></li>
     <li><img align="center" alt="YouTube" width="25px" height = "20px" src="https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif"><b> Programming Mentor</b></li>
     <li><img align="center" alt="YouTube" width="25px" height = "20px" src="assets/youtube.png"><b> Educational Content Creator</b></li>
   </ul> 
