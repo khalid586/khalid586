@@ -22,7 +22,7 @@
     <li> <img src="assets/typing%20cat.gif" width = "25px" height = "20px"  data-animated-image="" > Frontend Developer</li>
     <li><b><img align = "center" src = "assets/BD%20waving%20flag.gif" width = "35px">  <img align="center" alt="Khalid abdullah | ICPC" width = "30px" height = "22px"  src="images.png"> <i>ICPC Asia Dhaka Regionalist </i></b> </li>
     <li><img align = "center" src = "https://cdn.dribbble.com/users/1397073/screenshots/3722760/media/813d0dbb43ce74500bb1ff162ff91303.gif" width = "25px" height = "20px"><b> Problem Author</b></li>
-    <li><img align = "center" src = "https://cdn.dribbble.com/users/1092215/screenshots/3291763/.gif" width = "25px" height = "20px"><b> Debater</b></li>
+    <li><img align = "center" src = "https://ideas.ted.com/wp-content/uploads/sites/3/2017/11/featured_speech_leech.gif?w=750" width = "25px" height = "20px"><b> Debater</b></li>
     <li><img align="center" alt="YouTube" width="25px" height = "20px" src="https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif"><b> Programming Mentor</b></li>
     <li><img align="center" alt="YouTube" width="25px" height = "20px" src="assets/youtube.png"><b> Educational Content Creator</b></li>
   </ul> 
@@ -39,13 +39,19 @@
 <br>
 <br>
 
-
+<div>
 <h1> <img align = "center" src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" width = "60px"> Reach Me</h1>
+<img align="right" alt="working" width="400" height="240" src="https://miro.medium.com/v2/resize:fit:640/1*mIQBuaEwQWl7SYZ4hEmFPg.gif"> 
 <ul>
   <li> <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg"> <img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"></a> </li>
   <li> <a href = "mailto:khalidcomilla58@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /> <img align = "center" src = "https://img.shields.io/badge/Khalidcomilla58@gmail.com-%23E60023.svg?"></a>      
   <li> <a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" width="30" />  <img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah-%231877F2.svg?logo=Facebook&logoColor=white">  </a></li>
 </ul>
+</div>
+
+<br>
+<br>
+<br>
 
 <h1 align="left">  <img align="center" alt="Khalid abdullah | ICPC" width="70px" src="assets/Tools.gif"> Online Judge Profiles</h1>
 <p align="left">
