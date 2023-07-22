@@ -109,7 +109,7 @@
     <li><img align = "center" src = "assets/debater.gif" width = "30px" height = "20px"> Conducted Workshops for 1<sup>st</sup> and 2<sup>nd </sup>  year students</li>
     <li><img align = "center" src = "assets/debater.gif" width = "30px" height = "20px"> Mentored Junior Competitive Programmers of our University </li>
     <li><img align = "center" src = "https://miro.medium.com/v2/resize:fit:640/1*mIQBuaEwQWl7SYZ4hEmFPg.gif" width = "30px" height = "20px"> Participated in Global coding contest such as Google Kickstart , CodeJam and Facebook HackerCup</li>
-    <li><img align = "center" src = "https://miro.medium.com/v2/resize:fit:640/1*mIQBuaEwQWl7SYZ4hEmFPg.gif" width = "30px" height = "20px"> Participated in several Online Hackathons</li>
+    <li><img align = "center" src = "https://cdn.dribbble.com/users/64533/screenshots/15988309/media/168ff694237775fe784c3597d481c0df.gif" width = "30px" height = "20px"> Participated in several Online Hackathons</li>
     
     
     
