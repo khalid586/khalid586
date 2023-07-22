@@ -18,6 +18,7 @@
 <div>
   <h1 align = "center"> <img align = "center" src = "https://cdn.dribbble.com/users/99287/screenshots/3839839/media/0558e58d42aaf75dd74436b78605e343.gif" width = "50px"> About Me </h1>
   <img align="right" alt="Coding" width="400" height="240" src="assets/green%20stat.gif"> 
+  <br>
   <ul>
     <li> <img src="assets/typing%20cat.gif" width = "25px" height = "20px"  data-animated-image="" > Frontend Developer</li>
     <li><b><img align = "center" src = "assets/BD%20waving%20flag.gif" width = "35px">  <img align="center" alt="Khalid abdullah | ICPC" width = "30px" height = "22px"  src="images.png"> <i>ICPC Asia Dhaka Regionalist </i></b> </li>
@@ -37,11 +38,11 @@
 </li> -->
 
 <br>
-<br>
 
 <div>
 <h1> <img align = "center" src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" width = "60px"> Reach Me</h1>
 <img align="right" alt="working" width="400" height="240" src="https://miro.medium.com/v2/resize:fit:640/1*mIQBuaEwQWl7SYZ4hEmFPg.gif"> 
+  <br>
 <ul>
   <li> <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg"> <img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"></a> </li>
   <li> <a href = "mailto:khalidcomilla58@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /> <img align = "center" src = "https://img.shields.io/badge/Khalidcomilla58@gmail.com-%23E60023.svg?"></a>      
@@ -49,8 +50,6 @@
 </ul>
 </div>
 
-<br>
-<br>
 <br>
 
 <h1 align="left">  <img align="center" alt="Khalid abdullah | ICPC" width="70px" src="assets/Tools.gif"> Online Judge Profiles</h1>
