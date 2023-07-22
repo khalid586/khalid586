@@ -16,7 +16,7 @@
 </details>
 
 <div>
-  <h1 align = "center"> <img align = "center" src = "https://miro.medium.com/v2/resize:fit:640/1*mIQBuaEwQWl7SYZ4hEmFPg.gif" width = "50px"> About Me </h1>
+  <h1 align = "center"> <img align = "center" src = "assets/working.gif" width = "50px" alt = "Myself"> About Me </h1>
   <img align="right" alt="Coding" width="400" height="240" src="assets/green%20stat.gif"> 
   <br>
   <ul>
