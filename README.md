@@ -16,7 +16,7 @@
 </details>
 
 <div>
-  <h1 align = "center"> <img align = "center" src = "https://cdn.dribbble.com/users/99287/screenshots/3839839/media/0558e58d42aaf75dd74436b78605e343.gif" width = "50px"> About Me </h1>
+  <h1 align = "center"> <img align = "center" src = "https://miro.medium.com/v2/resize:fit:640/1*mIQBuaEwQWl7SYZ4hEmFPg.gif" width = "50px"> About Me </h1>
   <img align="right" alt="Coding" width="400" height="240" src="assets/green%20stat.gif"> 
   <br>
   <ul>
