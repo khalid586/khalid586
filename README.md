@@ -10,7 +10,7 @@
     My Dream
   </summary>
   <ul>
-      <li><i> Representing <img align = "center"  src = "assets/BD%20waving%20flag.gif" width = "25px"><b> Bangladesh </b> at the <img src = "images.png" height = "20px" width = "25px" align = "center"> GLOBAL Arena and wave the Flag <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "25px" height = "15px"></i>
+      <li><i> Representing <img align = "center"  src = "assets/BD%20waving%20flag.gif" width = "30px"><b> Bangladesh </b> at the <img src = "images.png" height = "20px" width = "25px" align = "center"> GLOBAL Arena and wave the Flag <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "30px"></i>
       </li>
   </ul>
 </details>
