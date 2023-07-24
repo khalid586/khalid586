@@ -19,7 +19,7 @@
   <summary>
     Fun Fact
   </summary>
-You don't need money to give repo a star <img src = "https://cdn.dribbble.com/users/77289/screenshots/6165244/star.gif" width = "20px"><br> So if you like my readme do  give it a star <img src = "https://cdn.dribbble.com/users/77289/screenshots/6165244/star.gif" width = "20px"> <br> 😉😉
+You don't need money to give a star <img src = "https://cdn.dribbble.com/users/193260/screenshots/2658632/animated_stars.gif" width = "27px" align = "center"> <br> If you  like my readme , give it a star <img align = "center" src = "https://cdn.dribbble.com/users/193260/screenshots/2658632/animated_stars.gif" width = "27px"> <br> 😉😉
 </details>
 
 <div>
