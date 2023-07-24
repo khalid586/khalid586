@@ -32,7 +32,7 @@
 <br>
 
 <div>
-<h1> <img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/6862722/reachmore_dribbble.gif" width = "60px"> Reach Me</h1>
+<h1> <img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/6862722/reachmore_dribbble.gif" width = "60px"> Connect with me</h1>
 
 <img align="right" alt="working" width="400" height="240" src="assets/social.gif"> 
   <br>
