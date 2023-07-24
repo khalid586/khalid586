@@ -1,6 +1,6 @@
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="assets/banner%20gif.gif"></a>
 <h1 align="center"> 👋🏻Assalamu Alaikum I'm <br><img src = "BD FLAG.jpg" width = "40px"><i> Khalid Abdullah</h1>
-<h4 align="center"> <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "25px"> Bangladeshi Sports Programmer | <img align = "center" src = "https://www.lambdatest.com/resources/images/news24.gif" width = "20px"> Frontend Developer  </i></h4>
+<h4 align="center"> <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "30px"> Bangladeshi Sports Programmer | <img align = "center" src = "https://www.lambdatest.com/resources/images/news24.gif" width = "30px"> Frontend Developer  </i></h4>
 
 <!-- For resume [![Resume](https://img.shields.io/badge/-Resume-success)]()-->
                                                                                                                                                               
