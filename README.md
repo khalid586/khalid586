@@ -116,7 +116,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
     <li><img align = "center" src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" width = "40px" height = "25px"> Conducted Workshops for 1<sup>st</sup> and 2<sup>nd </sup>  year students</li>
     <li><img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/3079111/presentation_d.gif" width = "40px" height = "25px"> Mentored Junior Competitive Programmers of our University </li>
     <li><img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px" height = "25px"> Participated in Global coding contest such as Google Kickstart , CodeJam and Facebook HackerCup</li>
-    <li><img align = "center" src = "https://cdn.dribbble.com/users/64533/screenshots/15988309/media/168ff694237775fe784c3597d481c0df.gif" width = "40px" height = "25px"> Participated in several Online Hackathons</li>
+    <li><img align = "center" src = "https://cdn.dribbble.com/users/176039/screenshots/5506302/media/79cbe7cf1815a8b5dc825b7063a9a7bd.gif" width = "40px" height = "25px"> Participated in several Online Hackathons</li>
     
     
     
