@@ -41,7 +41,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <div>
 <h1> <img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/6862722/reachmore_dribbble.gif" width = "60px"> Connect with me</h1>
 
-<img align="right" alt="working" width="400" height="240" src="assets/social.gif"> 
+<img align="right" alt="working" width="400" height="240" src="https://cdn.dribbble.com/users/1052957/screenshots/4153213/offcie.gif"> 
   <br>
 <ul>
   <li> <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg"> <img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"></a> </li>
@@ -100,7 +100,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br>
 
-<h1> <img align="center" alt="Activities" width="70px" src = "https://cdn.dribbble.com/users/2063956/screenshots/14532384/media/15ec98b2f0af3455a4a439d885923a87.gif"> Activities <img align="center" alt="Khalid abdullah | ICPC" width="50px" height = "35px" src="assets/baiustLogo.jpg"></h1>
+<h1> <img align="center" alt="Activities" width="90px" src = "assets/social.gif"> Activities <img align="center" alt="Khalid abdullah | ICPC" width="50px" height = "35px" src="assets/baiustLogo.jpg"></h1>
 
 <hr>
 <ul align = "left">
@@ -109,7 +109,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
     <li><img align = "center" src = "https://www.lambdatest.com/resources/images/news24.gif" width = "40px" height = "25px"> Participated in <b>50+ Online Programming Competitions <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"><a href = "https://www.stopstalk.com/user/profile/khalid58"> [Stats] </b></a></li>
     <li><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "40px" height = "25px"><b> Problemsetter </b>at Junior Intra University Programming Contest(IUPC) which included resposibilites such as <br>Preparing <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Problem%20statements">Problem statements </a>, Writing <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Solutions">Solutions </a> and <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Test%20cases"> Test Cases  </a> [ Contest Ref ➡️ </b><a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"> <img align="center" alt="Toph" width="30px" src="emblem_120p.png"> C. Save money | F. Evenly Divisible </a>]
     </li>
-    <li><img align = "center" src = "assets/social.gif" width = "40px" height = "25px"> Worked as an <b>Organizer</b> at <img align="center" alt="CSE Fest" width="40px" height = "25px" src="assets/cse fest.jpg"> BAIUST CSE FEST(Programming Contest Section) 
+    <li><img align = "center" src = "https://cdn.dribbble.com/users/1052957/screenshots/4153213/offcie.gif" width = "40px" height = "25px"> Worked as an <b>Organizer</b> at <img align="center" alt="CSE Fest" width="40px" height = "25px" src="assets/cse fest.jpg"> BAIUST CSE FEST(Programming Contest Section) 
     </li>
     <li><img align="center" src="https://cdn.dribbble.com/users/3651832/screenshots/7058203/rob.gif" alt="robo soccer" width="40px" height = "25px" > Represented my <img align="center" src="assets/cse logo2.png" alt="robo soccer" width="40px" height = "25px" > Department at the <b>Intra University Robo Soccer Competition</b> and <b>reached the Semi-Finals</b></li>
     <li><img align = "center" src = "assets/debater.gif" width = "40px" height = "25px"> Represented my <img align="center" src="assets/cse logo2.png" alt="robo soccer" width="40px" height = "25px" > Department at the <b>Inter Department Debate Competition </b> <img align="center" alt="Debate" width="40px" height = "25px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif"><b>[Glimpse of an Argument]</b></a></li>
@@ -126,7 +126,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 
-<h1> <img align="center" alt="Achievements" width="70px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> Competitive Rankings <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px"> </h1>
+<h1> <img align="center" alt="Achievements" width="80px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> Competitive Rankings <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px"> </h1>
 <hr>
 <ul align = "left">
     <li><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked <b> 81 <sup> st </sup> </b>(out of 20000+ registered participants) in Codechef October Challenge 2021 <img align="center" alt="Achievements" width="20px" src="assets/Tools.gif"><a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> <b>[Standings]</b> </a></li>
