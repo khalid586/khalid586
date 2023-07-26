@@ -23,7 +23,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 </details>
 
 <div>
-  <h1 align = "center"> <img align = "center" src = "assets/working.gif" width = "50px" alt = "Myself"> | About Me |</h1>
+  <h1 align = "center"> <img align = "center" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width = "50px" alt = "Myself"> | About Me |</h1>
   <img align="right" alt="Coding" width="400" height="240" src="assets/green%20stat.gif"> 
   <br>
   <ul>
