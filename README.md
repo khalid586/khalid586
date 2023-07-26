@@ -41,7 +41,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <div>
 <h1> <img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/6862722/reachmore_dribbble.gif" width = "60px"> Connect with me</h1>
 
-<img align="right" alt="working" width="400" height="240" src="https://cdn.dribbble.com/users/1052957/screenshots/4153213/offcie.gif"> 
+<img align="right" alt="working" width="400" height="240" src="assets/social.gif"> 
   <br>
 <ul>
   <li> <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg"> <img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"></a> </li>
