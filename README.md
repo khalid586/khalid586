@@ -100,7 +100,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br>
 
-<h1> <img align="center" alt="Activities" width="90px" src = "assets/social.gif"> Activities <img align="center" alt="Khalid abdullah | ICPC" width="50px" height = "35px" src="assets/baiustLogo.jpg"></h1>
+<h1> <img align="center" alt="Activities" width="80px" src = "assets/social.gif"> Activities <img align="center" alt="Khalid abdullah | ICPC" width="50px" height = "35px" src="assets/baiustLogo.jpg"></h1>
 
 <hr>
 <ul align = "left">
