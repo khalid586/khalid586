@@ -92,9 +92,9 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <h1> <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/329103/screenshots/1398864/media/7bae9b1274690e15ce3cd80a6f6fb190.gif" width = "70px"> Academic Achievements <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/20079/screenshots/3209122/media/f6e88fe415ba8d0cb211afad5f3acc8f.gif" width = "50px"></h1>
 <hr>
 <ul>
-  <li><img align="center" alt="academics" width="25px" height = "15px" src="assets/purple stat.gif.crdownload"> <b>One of the Top Performers of OOP and Data Structure & Algorithms course</b></li>
-  <li><img align="center" alt="academics" width="25px" height = "15px" src="assets/purple stat.gif.crdownload"> Ranked <b>189<sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam 2019 (Comilla Board) <img align="center" alt="academics" width="25px" height = "17px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b>[Ranklist] </b></a></li>
-  <li><img align="center" alt="academics" width="25px" height = "15px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region(Higher Secondary Division) and Qualified for the National Round </li>
+  <li><img align="center" alt="academics" width="40px" height = "25px" src="assets/purple stat.gif.crdownload"> <b>One of the Top Performers of OOP and Data Structure & Algorithms course</b></li>
+  <li><img align="center" alt="academics" width="40px" height = "25px" src="assets/purple stat.gif.crdownload"> Ranked <b>189<sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam 2019 (Comilla Board) <img align="center" alt="academics" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b>[Ranklist] </b></a></li>
+  <li><img align="center" alt="academics" width="40px" height = "25px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region(Higher Secondary Division) and Qualified for the National Round </li>
 </ul>
 <hr>
 
@@ -109,7 +109,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
     <li><img align = "center" src = "https://www.lambdatest.com/resources/images/news24.gif" width = "40px" height = "25px"> Participated in <b>50+ Online Programming Competitions <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"><a href = "https://www.stopstalk.com/user/profile/khalid58"> [Stats] </b></a></li>
     <li><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "40px" height = "25px"><b> Problemsetter </b>at Junior Intra University Programming Contest(IUPC) which included resposibilites such as <br>Preparing <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Problem%20statements">Problem statements </a>, Writing <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Solutions">Solutions </a> and <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Test%20cases"> Test Cases  </a> [ Contest Ref ➡️ </b><a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"> <img align="center" alt="Toph" width="30px" src="emblem_120p.png"> C. Save money | F. Evenly Divisible </a>]
     </li>
-    <li><img align = "center" src = "https://cdn.dribbble.com/users/1194373/screenshots/4212918/ezgif.com-gif-maker.gif" width = "40px" height = "25px"> Worked as an <b>Organizer</b> at <img align="center" alt="CSE Fest" width="40px" height = "25px" src="assets/cse fest.jpg"> BAIUST CSE FEST(Programming Contest Section) 
+    <li><img align = "center" src = "https://i.pinimg.com/originals/de/01/e7/de01e79dd4c5a4a07ba9ede68dc62486.gif" width = "40px" height = "25px"> Worked as an <b>Organizer</b> at <img align="center" alt="CSE Fest" width="40px" height = "25px" src="assets/cse fest.jpg"> BAIUST CSE FEST(Programming Contest Section) 
     </li>
     <li><img align="center" src="https://cdn.dribbble.com/users/3651832/screenshots/7058203/rob.gif" alt="robo soccer" width="40px" height = "25px" > Represented my <img align="center" src="assets/cse logo2.png" alt="robo soccer" width="40px" height = "25px" > Department at the <b>Intra University Robo Soccer Competition</b> and <b>reached the Semi-Finals</b></li>
     <li><img align = "center" src = "assets/debater.gif" width = "40px" height = "25px"> Represented my <img align="center" src="assets/cse logo2.png" alt="robo soccer" width="40px" height = "25px" > Department at the <b>Inter Department Debate Competition </b> <img align="center" alt="Debate" width="40px" height = "25px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif"><b>[Glimpse of an Argument]</b></a></li>
@@ -145,7 +145,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br>
 
-# <p> <img align="center" alt="Khalid abdullah | stats" width="70px" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif"> GitHub Stats </p>
+# <p> <img align="center" alt="Khalid abdullah | stats" width="80px" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif"> GitHub Stats </p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false)
 <img width = "500px" src = "https://github-readme-stats.vercel.app/api?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true">
 
