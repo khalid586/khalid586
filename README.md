@@ -44,7 +44,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <img align="right" alt="working" width="400" height="240" src="assets/social.gif"> 
   <br>
 <ul>
-  <li> <a href = "mailto:iamkhalidabd@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /> <img align = "center" src = "https://img.shields.io/badge/iamkhalidabd-%23E60023.svg?"></a></li>
+  <li> <a href = "mailto:iamkhalidabd@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /> <img align = "center" src = "https://img.shields.io/badge/iamkhalidabd@gmail.com-%23E60023.svg?"></a></li>
   <li> <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg"> <img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"></a> </li>     
   <li> <a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" width="30" />  <img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah-%231877F2.svg?logo=Facebook&logoColor=white">  </a></li>
 </ul>
