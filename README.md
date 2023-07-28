@@ -1,6 +1,6 @@
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="assets/banner%20gif.gif"></a>
 <h1 align="center"> 👋🏻Assalamu Alaikum I'm <br><img src = "BD FLAG.jpg" width = "40px"> Khalid Abdullah</h1>
-<h4 align="center"> | <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "30px"> | Bangladeshi Sports Programmer | <br> | <img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "30px"> | Frontend Developer | </h4>
+<h4 align="center"> | <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "30px"> | <img align = "center" src = "https://img.shields.io/badge/Bangladeshi Sports Programmer-%23E60023.svg?"> | <br> | <img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "25px"> | <img align = "center" src = "https://img.shields.io/badge/Fullstack Developer-%25E60025.svg?"> | </h4>
 
 <!-- For resume [![Resume](https://img.shields.io/badge/-Resume-success)]()-->
                                                                                                                                                               
@@ -26,14 +26,18 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
   <h1 align = "center"> <img align = "center" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width = "50px" alt = "Myself"> | About Me |</h1>
   <img align="right" alt="Coding" width="400" height="240" src="assets/green%20stat.gif"> 
   <br>
+
+
   <ul>
-    <li> <img src="assets/typing%20cat.gif" width = "25px" height = "20px"  data-animated-image="" > Frontend Developer</li>
-    <li><b><img align = "center" src = "assets/BD%20waving%20flag.gif" width = "35px">  <img align="center" alt="Khalid abdullah | ICPC" width = "30px" height = "22px"  src="images.png"> <i>ICPC Asia Dhaka Regionalist </i></b> </li>
+    <li><b><img align = "center" src = "assets/BD%20waving%20flag.gif" width = "35px">  <img align="center" alt="Khalid abdullah | ICPC" width = "30px" height = "22px"  src="images.png"> <i><img align = "center" src = "https://img.shields.io/badge/ICPC Asia Dhaka Regionalist-%23E60023.svg?"> </i></b> </li>
+    <li> <img src="assets/typing%20cat.gif" width = "25px" height = "20px"  data-animated-image="" > <img align = "center" src = "https://img.shields.io/badge/Fullstack Developer-%25E60025.svg?"></li>
     <li><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "25px" height = "20px"><b> Problem Author</b></li>
     <li><img align = "center" src = "assets/speak.webp" width = "25px" height = "20px"><b> Debater</b></li>
     <li><img align="center" alt="YouTube" width="25px" height = "20px" src="https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif"><b> Programming Mentor</b></li>
     <li><img align="center" alt="YouTube" width="25px" height = "20px" src="assets/youtube.png"><b> Educational Content Creator</b></li>
   </ul> 
+
+
 </div>
 
 <br>
