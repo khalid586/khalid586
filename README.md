@@ -154,7 +154,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br>
 
-<h1> <p> <img align="center" alt="Khalid abdullah | stats" width="80px" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif"> | <img align = "center" src = "https://img.shields.io/badge/Github Stats-purple.svg?" width = "150px"> |</p> </h1>
+<h1> <p> <img align="center" alt="Khalid abdullah | stats" width="65px" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif"> | <img align = "center" src = "https://img.shields.io/badge/Github Stats-purple.svg?" width = "150px"> |</p> </h1>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false)
 <img width = "500px" src = "https://github-readme-stats.vercel.app/api?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true">
