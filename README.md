@@ -25,7 +25,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br><br>
 
 <div>
-  <h1> <img src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width = "50px" alt = "Myself" align = "center"> | <img src = "https://img.shields.io/badge/About Me-%2300f.svg?style=flat" align = "center" width = "120px"> |</h1>
+  <h1> <img src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width = "50px" alt = "Myself" align = "center"> | <img src = "https://img.shields.io/badge/About Me-white.svg?style=flat" align = "center" width = "120px"> |</h1>
   <img align="right" alt="Coding" width="400px" height="200px" src="assets/green%20stat.gif"> 
   <br>
 
@@ -45,7 +45,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 <div>
-<h1> <img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/6862722/reachmore_dribbble.gif" width = "60px"> | <img align = "center" src = "https://img.shields.io/badge/Contact Me-white.svg?" width = "125px"> |</h1>
+<h1> <img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/6862722/reachmore_dribbble.gif" width = "60px"> | <img align = "center" src = "https://img.shields.io/badge/Contact Me-%2300f.svg?" width = "125px"> |</h1>
 
 <img align="right" alt="working" width="400px" height="200px" src="assets/social.gif"> 
   <br>
@@ -102,8 +102,8 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <hr>
 <ul>
   <li><img align="center" alt="academics" width="40px" height = "25px" src="assets/purple stat.gif.crdownload"> <b>One of the Top Performers of OOP and Data Structure & Algorithms course</b></li>
-  <li><img align="center" alt="academics" width="40px" height = "25px" src="assets/purple stat.gif.crdownload"> Ranked <b><img align = "center" src = "https://img.shields.io/badge/189-%23E60023.svg?style=flat"><sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam 2019 (Comilla Board) <img align="center" alt="academics" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b><img align = "center" src = "https://img.shields.io/badge/Ranking-%231877F2.svg?"> </b></a></li>
-  <li><img align="center" alt="academics" width="40px" height = "25px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region(Higher Secondary Division) and Qualified for the National Round </li>
+  <li><img align="center" alt="academics" width="40px" height = "25px" src="assets/purple stat.gif.crdownload"> Ranked <b><img align = "center" src = "https://img.shields.io/badge/189-%23E60023.svg?style=flat"> <sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam 2019 (Comilla Board) <img align="center" alt="academics" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b><img align = "center" src = "https://img.shields.io/badge/Ranking-%231877F2.svg?"> </b></a></li>
+  <li><img align="center" alt="academics" width="40px" height = "25px" src="assets/purple stat.gif.crdownload"> Ranked <b><img align = "center" src = "https://img.shields.io/badge/23-%23E60023.svg?style=flat"> <sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region(Higher Secondary Division) and Qualified for the National Round </li>
 </ul>
 <hr>
 
