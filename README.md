@@ -31,12 +31,12 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 
   <ul>
-    <li><b><img align = "center" src = "assets/BD%20waving%20flag.gif" width = "35px">  <img align="center" alt="Khalid abdullah | ICPC" width = "30px" height = "22px"  src="images.png"> <i><img align = "center" src = "https://img.shields.io/badge/ICPC Asia Dhaka Regionalist-%23E60023.svg?"> </i></b> </li>
-    <li> <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "25px" height = "20px"  data-animated-image="" align = "center"> <img align = "center" src = "https://img.shields.io/badge/Fullstack Developer-%2300f.svg?"></li>
-    <li><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "25px" height = "20px"><b>  <img src = "https://img.shields.io/badge/Problem Author-orange.svg?style=flat" align = "center"></b></li>
-    <li><img align = "center" src = "assets/speak.webp" width = "25px" height = "20px"><b> <img align = "center" src = "https://img.shields.io/badge/Debater-blue.svg?"></b></li>
-    <li><img align="center" alt="YouTube" width="25px" height = "20px" src="https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif"><b> <img align = "center" src = "https://img.shields.io/badge/Programming Mentor-purple.svg?"></b></li>
-    <li><img align="center" alt="YouTube" width="25px" height = "20px" src="assets/youtube.png"><b> <img align = "center" src = "https://img.shields.io/badge/Educational Content Creator-grey.svg?"></b></li>
+    <li style="margin-bottom: 5px;"><b><img align = "center" src = "assets/BD%20waving%20flag.gif" width = "35px">  <img align="center" alt="Khalid abdullah | ICPC" width = "30px" height = "22px"  src="images.png"> <i><img align = "center" src = "https://img.shields.io/badge/ICPC Asia Dhaka Regionalist-%23E60023.svg?"> </i></b> </li>
+    <li style="margin-bottom: 5px;"><img align = "center" src = "https://i.pinimg.com/originals/de/01/e7/de01e79dd4c5a4a07ba9ede68dc62486.gif" width = "25px" height = "20px"> <img src = "https://img.shields.io/badge/Programming Competition Organizer-%23E60023.svg?style=flat" align = "center"></li>
+    <li style="margin-bottom: 5px;"><img align="center" alt="YouTube" width="25px" height = "20px" src="https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif"><b> <img align = "center" src = "https://img.shields.io/badge/Programming Mentor-%23E60023.svg?"></b></li>
+    <li style="margin-bottom: 5px;"><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "25px" height = "20px"><b>  <img src = "https://img.shields.io/badge/Problem Author-%23E60023.svg?style=flat" align = "center"></b></li>
+    <li style="margin-bottom: 5px;"><img align="center" alt="YouTube" width="25px" height = "20px" src="assets/youtube.png"><b> <img align = "center" src = "https://img.shields.io/badge/Content Creator-grey.svg?"></b></li>
+    <li style="margin-bottom: 5px;"><img align = "center" src = "assets/speak.webp" width = "25px" height = "20px"><b> <img align = "center" src = "https://img.shields.io/badge/Debater-%23Clojure.svg?"></b></li>
   </ul> 
 
 
