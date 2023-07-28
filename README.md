@@ -109,7 +109,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br> 
 
-<h1> <img align="center" alt="Activities" width="80px" src = "assets/social.gif"> | <img src = "https://img.shields.io/badge/Activities-%2300f.svg?style=flat" align = "center" width = "120px"> | <img align="center" alt="Khalid abdullah | ICPC" width="50px" height = "35px" src="assets/baiustLogo.jpg"></h1>
+<h1> <img align="center" alt="Activities" width="80px" src = "assets/social.gif"> | <img src = "https://img.shields.io/badge/Activities-%23239120.svg?style=flat" align = "center" width = "120px"> | <img align="center" alt="Khalid abdullah | ICPC" width="50px" height = "35px" src="assets/baiustLogo.jpg"></h1>
 
 <hr>
 <ul align = "left">
