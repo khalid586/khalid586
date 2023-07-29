@@ -98,7 +98,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br>
 
-<h1> <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/329103/screenshots/1398864/media/7bae9b1274690e15ce3cd80a6f6fb190.gif"  width="70px"> |<img align = "center" src = "https://img.shields.io/badge/Academic Achievements-%23E60023.svg?style=flat" width = "220px">| <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/20079/screenshots/3209122/media/f6e88fe415ba8d0cb211afad5f3acc8f.gif" width = "50px"></h1>
+<h1> <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/329103/screenshots/1398864/media/7bae9b1274690e15ce3cd80a6f6fb190.gif"  width="70px"> |<img align = "center" src = "https://img.shields.io/badge/Achievements-%23E60023.svg?style=flat" width = "180px">| <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/20079/screenshots/3209122/media/f6e88fe415ba8d0cb211afad5f3acc8f.gif" width = "50px"></h1>
 <hr>
 <ul>
   <li><img align="center" alt="academics" width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> <b>One of the Top Performers of OOP and Data Structure & Algorithms course</b></li>
