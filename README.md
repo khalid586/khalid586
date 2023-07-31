@@ -1,6 +1,6 @@
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="assets/banner%20gif.gif"></a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%064223229&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum"></a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%064223229&size=25&center=true&vCenter=true&width=600&height=30&lines=I'm+Khalid+Abdullah"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F70000&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF202000&size=25&center=true&vCenter=true&width=600&height=30&lines=I'm+Khalid+Abdullah"></a>
 <h4 align="center"> | <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "30px"> | <img align = "center" src = "https://img.shields.io/badge/Bangladeshi Sports Programmer-%23E60023.svg?"> | <br> | <img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "25px"> | <img align = "center" src = "https://img.shields.io/badge/Fullstack Developer-%2300f.svg?"> | </h4>
 
 <!-- For resume [![Resume](https://img.shields.io/badge/-Resume-success)]()-->
