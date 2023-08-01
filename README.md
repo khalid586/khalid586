@@ -27,7 +27,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <div>
   <h1> <img src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width = "50px" alt = "Myself" align = "center"> |<img src = "https://img.shields.io/badge/About Me-white.svg?style=flat" align = "center" width = "120px">|</h1>
-  <img align="right" alt="Coding" width="400px" height="200px" src="assets/green%20stat.gif"> 
+  <img align="right" alt="Coding" width="400px" height="250px" src="assets/green%20stat.gif"> 
   <br>
 
 
@@ -48,7 +48,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <div>
 <h1> <img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/6862722/reachmore_dribbble.gif" width = "60px"> |<img align = "center" src = "https://img.shields.io/badge/Contact Me-%2300f.svg?" width = "125px">|</h1>
 
-<img align="right" alt="working" width="400px" height="240px" src="assets/social.gif"> 
+<img align="right" alt="working" width="400px" height="250px" src="assets/social.gif"> 
   <br>
 <ul>
   <li> <a href = "mailto:iamkhalidabd@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /> <img align = "center" src = "https://img.shields.io/badge/iamkhalidabd@gmail.com-%23E60023.svg?"></a></li>
