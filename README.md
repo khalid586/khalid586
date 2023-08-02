@@ -1,6 +1,7 @@
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="assets/banner%20gif.gif"></a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum"></a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF202000&size=25&center=true&vCenter=true&width=600&height=30&lines=I'm+Khalid+Abdullah;Welcome+to+My+Profile"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum;Welcome+to+My+Profile"></a>
+
+<p align = "center"><img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah-white.svg?" width = "250px"> </p>
 <h4 align="center"> | <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "30px"> | <img align = "center" src = "https://img.shields.io/badge/Bangladeshi Sports Programmer-%23E60023.svg?"> | <br> | <img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "25px"> | <img align = "center" src = "https://img.shields.io/badge/Fullstack Developer-%2300f.svg?"> | </h4>
 
 <!-- For resume [![Resume](https://img.shields.io/badge/-Resume-success)]()-->
@@ -138,7 +139,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 
-<h1> <img align="center" alt="Achievements" width="60px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> |<img align = "center" src = "https://img.shields.io/badge/Competitive Rankings-%23E60023.svg?style=flat" width = "200px">| <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px"> </h1>
+<h1> <img align="center" alt="Achievements" width="60px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> |<img align = "center" src = "https://img.shields.io/badge/Competitive Rankings-%23E60023.svg?style=flat" width = "220px">| <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px"> </h1>
 <hr>
 <ul align = "left">
     <li><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked <b> <img align = "center" src = "https://img.shields.io/badge/81-%23E60023.svg?style=flat"> <sup> st </sup> </b>(out of 20000+ registered participants) in Codechef October Challenge 2021 <img align="center" alt="Achievements" width="20px" src="assets/Tools.gif"><a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> <b><img align = "center" src = "https://img.shields.io/badge/Standings-%231877F2.svg?"></b> </a></li>
