@@ -47,7 +47,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 <div>
-<h1> <img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/6862722/reachmore_dribbble.gif" width = "60px"> |<img align = "center" src = "https://img.shields.io/badge/Contact Me-%2300f.svg?" width = "125px">|</h1>
+<h1> <img align = "center" src = "https://cdn.dribbble.com/users/752929/screenshots/4063794/it-team-working.gif" width = "60px"> |<img align = "center" src = "https://img.shields.io/badge/Contact Me-%2300f.svg?" width = "125px">|</h1>
 
 <img align="right" alt="working" width="400px" height="250px" src="assets/social.gif"> 
   <br>
