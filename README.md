@@ -27,7 +27,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br><br>
 
 <div>
-  <h1> <img src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width = "50px" alt = "Myself" align = "center"> |About Me|</h1>
+  <h1> <img src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width = "50px" alt = "Myself" align = "center"> About Me </h1>
   <img align="right" alt="Coding" width="400px" height="250px" src="assets/green%20stat.gif"> 
   <br>
 
@@ -47,7 +47,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 <div>
-<h1> <img align = "center" src = "https://cdn.dribbble.com/users/752929/screenshots/4063794/it-team-working.gif" width = "60px"> |Reach Me out|</h1>
+<h1> <img align = "center" src = "https://cdn.dribbble.com/users/752929/screenshots/4063794/it-team-working.gif" width = "60px"> Reach Me out</h1>
 
 <img align="right" alt="working" width="400px" height="250px" src="assets/social.gif"> 
   <br>
@@ -62,7 +62,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 <br>
 
-<h1>  <img align="center" alt="Khalid abdullah | ICPC" width="70px" src="assets/Tools.gif"> |My Profiles|</h1>
+<h1>  <img align="center" alt="Khalid abdullah | ICPC" width="70px" src="assets/Tools.gif"> My Profiles</h1>
 
 <a href="https://www.codechef.com/users/khalid58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khalid58" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/khalid10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height="30" width="40" /></a>
@@ -73,7 +73,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br>
 
-<h1> <p > <img align="center" alt="Khalid abdullah | ICPC" width="60px" src="assets/Tools 2.gif"> |Language & Tools|</p> </h1>
+<h1> <p > <img align="center" alt="Khalid abdullah | ICPC" width="60px" src="assets/Tools 2.gif"> Language & Tools</p> </h1>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 
