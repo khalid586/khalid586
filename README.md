@@ -167,4 +167,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img width = "500px" src = "https://github-readme-stats.vercel.app/api?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true")
+
+
+Projects section has to be added soon
 -->
