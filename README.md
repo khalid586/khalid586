@@ -37,7 +37,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
     <li style="margin-bottom: 7px;"><img align = "center" src = "https://i.pinimg.com/originals/de/01/e7/de01e79dd4c5a4a07ba9ede68dc62486.gif" width = "25px" height = "20px"> <img src = "https://img.shields.io/badge/Programming Competition Organizer-%2300f.svg?style=flat" align = "center"></li>
     <li style="margin-bottom: 7px;"><img align="center" alt="YouTube" width="25px" height = "20px" src="https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif"><b> <img align = "center" src = "https://img.shields.io/badge/Programming Mentor-%2300f.svg?"></b></li>
     <li style="margin-bottom: 7px;"><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "25px" height = "20px"><b>  <img src = "https://img.shields.io/badge/Problem Author-%23E60023.svg?style=flat" align = "center"></b></li>
-    <li style="margin-bottom: 7px;"><img align="center" alt="YouTube" width="25px" height = "20px" src="assets/youtube.png"><b> <img align = "center" src = "https://img.shields.io/badge/Content Creator-grey.svg?"></b></li>
+    <!-- <li style="margin-bottom: 7px;"><img align="center" alt="YouTube" width="25px" height = "20px" src="assets/youtube.png"><b> <img align = "center" src = "https://img.shields.io/badge/Content Creator-grey.svg?"></b></li> -->
     <li style="margin-bottom: 7px;"><img align = "center" src = "assets/speak.webp" width = "25px" height = "20px"><b> <img align = "center" src = "https://img.shields.io/badge/Debater-%23Clojure.svg?"></b></li>
   </ul> 
 
