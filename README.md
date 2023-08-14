@@ -47,7 +47,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 <div>
-<h1> <img align = "center" src = "https://cdn.dribbble.com/users/752929/screenshots/4063794/it-team-working.gif" width = "60px"> My Profiles</h1>
+<h1> <img align = "center" src = "https://cdn.dribbble.com/users/752929/screenshots/4063794/it-team-working.gif" width = "60px"> Connect with Me</h1>
 
 <img align="right" alt="working" width="400px" height="250px" src="assets/social.gif"> 
   <br>
@@ -59,7 +59,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
   <li style="margin-bottom: 5px;"><a href="https://codeforces.com/profile/khalid10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height="30" width="40" /> <img align = "center" width = "100px" src = "https://img.shields.io/badge/Codeforces-%23FFE953.svg?"></a></li>
   <li style="margin-bottom: 5px;"><a href="https://www.leetcode.com/khalidcomilla58
   " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khalid58" height="30" width="40" /><img align = "center" width = "100px" src = "https://img.shields.io/badge/Leetcode-%23E34F26.svg?"></a></li>
-  <li style="margin-bottom: 5px;"><a href="https://www.hackerearth.com/@khalidcomilla58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="khalid58" height="30" width="40" /><img align = "center" width = "100px" src = "https://img.shields.io/badge/HackerEarth-%23E34F26.svg?"></a></li>
+  <li style="margin-bottom: 5px;"><a href="https://www.hackerearth.com/@khalidcomilla58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="khalid58" height="30" width="40" /><img align = "center" width = "100px" src = "https://img.shields.io/badge/HackerEarth-%23150458.svg?"></a></li>
 </ul>
 </div>
 
