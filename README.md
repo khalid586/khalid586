@@ -47,7 +47,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 <div>
-<h1> <img align = "center" src = "https://cdn.dribbble.com/users/752929/screenshots/4063794/it-team-working.gif" width = "60px"> Reach Me out</h1>
+<h1> <img align = "center" src = "https://cdn.dribbble.com/users/752929/screenshots/4063794/it-team-working.gif" width = "60px"> My Profiles</h1>
 
 <img align="right" alt="working" width="400px" height="250px" src="assets/social.gif"> 
   <br>
@@ -55,32 +55,13 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
   <li style="margin-bottom: 5px;"> <a href = "mailto:iamkhalidabd@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /> <img align = "center" src = "https://img.shields.io/badge/iamkhalidabd@gmail.com-%23E60023.svg?"></a></li>
   <li style="margin-bottom: 5px;"> <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg"> <img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"></a> </li>     
   <li style="margin-bottom: 5px;"> <a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" width="30" />  <img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah-%231877F2.svg?logo=Facebook&logoColor=white">  </a></li>
+  <li style="margin-bottom: 5px;"><a href="https://www.codechef.com/users/khalid58" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khalid58" height="30" width="40" /> <img align = "center" width = "100px" src = "https://img.shields.io/badge/Codechef-white.svg?"></b></a></li>
+  <li style="margin-bottom: 5px;"><a href="https://codeforces.com/profile/khalid10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height="30" width="40" /> <img align = "center" width = "100px" src = "https://img.shields.io/badge/Codeforces-%23FFE953.svg?"></a></li>
+  <li style="margin-bottom: 5px;"><a href="https://www.leetcode.com/khalidcomilla58
+  " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khalid58" height="30" width="40" /><img align = "center" width = "100px" src = "https://img.shields.io/badge/Leetcode-%23E34F26.svg?"></a></li>
+  <li style="margin-bottom: 5px;"><a href="https://www.hackerearth.com/@khalidcomilla58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="khalid58" height="30" width="40" /><img align = "center" width = "100px" src = "https://img.shields.io/badge/HackerEarth-%23E34F26.svg?"></a></li>
 </ul>
 </div>
-
-<br>
-<br>
-<br>
-
-<h1>  <img align="center" alt="Khalid abdullah | ICPC" width="70px" src="assets/Tools.gif"> My Profiles</h1>
-
-<a href="https://www.codechef.com/users/khalid58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khalid58" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/khalid10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khalidcomilla58
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khalid58" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@khalidcomilla58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="khalid58" height="30" width="40" /></a>
-
-
-<br>
-
-<h1> <p > <img align="center" alt="Khalid abdullah | ICPC" width="60px" src="assets/Tools 2.gif"> Language & Tools</p> </h1>
-
-- <b> Comfortable with </b> - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)  
-
-- <b> Familiar with </b> - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
-
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)  -->
-
 
 <!--
 
@@ -118,7 +99,6 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
     <li style="margin-bottom: 8px;"><img align = "center" src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" width = "40px" height = "25px"> Conducted Workshops for 1<sup>st</sup> and 2<sup>nd </sup>  year students</li>
     <li style="margin-bottom: 8px;"><img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/3079111/presentation_d.gif" width = "40px" height = "25px"> <img align = "center" src = "https://img.shields.io/badge/Mentored-%2300f.svg?"> Junior Competitive Programmers of our University </li>
 </ul>
-<br> <br>
 <hr>
 
 <br>
@@ -172,6 +152,18 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false)
 <p>&nbsp;<img  width = "500px" align="center" src="https://github-readme-stats.vercel.app/api?username=khalid586&show_icons=true&theme=midnight-purple&locale=en"&include_all_commits=false&count_private=true" alt="khalid586" /></p>
+
+<br>
+
+<h1> <p > <img align="center" alt="Khalid abdullah | ICPC" width="60px" src="assets/Tools 2.gif"> Language & Tools</p> </h1>
+
+- <b> Comfortable with </b> - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)  
+
+- <b> Familiar with </b> - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
+
+<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)  -->
+
+
 
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid586&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
