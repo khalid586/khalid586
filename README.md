@@ -103,7 +103,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br>
 
-<h1> <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/329103/screenshots/1398864/media/7bae9b1274690e15ce3cd80a6f6fb190.gif"  width="70px"> |<img align = "center" src = "https://img.shields.io/badge/Achievements-%2300f.svg?style=flat" width = "180px">| </h1>
+<h1> <img align = "center" alt = "academic" src = "https://i.pinimg.com/originals/88/40/b8/8840b8d2c07bf805cdab22c0e4b54f59.gif"  width="70px"> |<img align = "center" src = "https://img.shields.io/badge/Achievements-%2300f.svg?style=flat" width = "180px">| </h1>
 <ul>
   <li><img align="center" alt="academics" width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> <b>One of the Top Performers of OOP and Data Structure & Algorithms course</b></li>
   <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b><img align = "center" src = "https://img.shields.io/badge/189-%23E60023.svg?style=flat"> <sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam 2019 (Comilla Board) <img align="center" alt="academics" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b><img align = "center" src = "https://img.shields.io/badge/Ranking-%231877F2.svg?"> </b></a></li>
