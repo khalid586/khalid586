@@ -32,7 +32,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <div>
   <h1> <img src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width = "50px" alt = "Myself" align = "center"> About Me </h1>
-  <img align="right" alt="Coding" width="400px" height="250px" src="assets/green%20stat.gif"> 
+  <img align="right" alt="Coding" width="400px" height="250px" src="assets/new.gif"> 
   <br>
 
 
@@ -90,7 +90,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 -->
 <br>
 
-<h1> <img align = "center" alt = "academic" src = "assets/new.gif"  width="70px"> |<img align = "center" src = "https://img.shields.io/badge/Experience-%23E60023.svg?style=flat" width = "150px">|  <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px"></h1>
+<h1> <img align = "center" alt = "academic" src = "assets/green stat.gif"  width="70px"> |<img align = "center" src = "https://img.shields.io/badge/Experience-%23E60023.svg?style=flat" width = "150px">|  <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px"></h1>
   <img align="right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/4382412/screenshots/15623896/media/104ffe2afc08de23a5295eca176bef28.gif">
 <ul>
     <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width = "40px" height = "25px"> Represented my <img align="center" alt="Baiust" width="25px" height = "20px" src="assets/baiustLogo.jpg"> <b>Institution </b> at <b><img align = "center" src = "https://img.shields.io/badge/ 5+ Onsite National Programming Competitions-%23E60023.svg?"></b> <br>which includes <b>2x  <img align="center" alt="Khalid abdullah | ICPC" width="23px" height = "18" src="images.png"> ICPC Asia Dhaka Regional Contest </b><a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="30px" height = "20px" src="images.png"><b> <img align = "center" src = "https://img.shields.io/badge/ ICPC Credential-%231877F2.svg?" width = "100px"> </b></a> </b> </li>
