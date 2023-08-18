@@ -128,7 +128,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 |Preview|Project Name|Framework|Source Code|Video Demo|Live server|
 |-|-|-|-|-|-|
-|<img align = "center" src = "assets/Homepage.png" width = "50px">|Kazi Shop|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) | [Source code](https://github.com/khalid586/Kazi-Shop) |-|-|
+|<img align = "center" src = "assets/Homepage.png" width = "100px">|Kazi Shop|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) | [Source code](https://github.com/khalid586/Kazi-Shop) |-|-|
 
 </div>
 
