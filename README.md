@@ -112,14 +112,14 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <div>
 <h1> <img align = "center" alt = "academic" src = "https://miro.medium.com/v2/resize:fit:640/1*mIQBuaEwQWl7SYZ4hEmFPg.gif"  width="70px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Projects-%23E60023.svg?style=flat" width = "100px"></a>|  <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px"></h1>
-  <img align="right" alt="Coding" width="400px" height="220px" src="https://cdn.dribbble.com/users/4382412/screenshots/15623896/media/104ffe2afc08de23a5295eca176bef28.gif">
+  <img align="right" alt="Coding" width="350px" height="200px" src="https://cdn.dribbble.com/users/4382412/screenshots/15623896/media/104ffe2afc08de23a5295eca176bef28.gif">
 
-|Project Name|Framework|Demo|Source Code|
-|-|-|-|-|
-|Kazi Shop|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) | - | [Source code](https://github.com/khalid586/Kazi-Shop) |
+|Project Name|Framework|Demo|Source Code|Live|
+|-|-|-|-|-|
+|Kazi Shop|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) | - | [Source code](https://github.com/khalid586/Kazi-Shop) |-|
 
 </div>
-
+<hr>
 <br>
 
 <div>
