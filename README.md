@@ -119,18 +119,18 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 </ul>
 </div>
 
-<hr>
 <br>
 
 <div>
-<h1> <img align = "center" alt = "academic" src = "https://miro.medium.com/v2/resize:fit:640/1*mIQBuaEwQWl7SYZ4hEmFPg.gif"  width="70px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Projects-%23E60023.svg?style=flat" width = "100px"></a>|  <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px"></h1>
+<p> <img align = "center" alt = "academic" src = "https://miro.medium.com/v2/resize:fit:640/1*mIQBuaEwQWl7SYZ4hEmFPg.gif"  width="70px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Projects-%23E60023.svg?style=flat" width = "100px"></a>|  <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px"></p>
 
 |Preview|Project Name|Framework|Source Code|Video Demo|Live server|
 |-|-|-|-|-|-|
 |<img align = "center" src = "assets/Homepage.png" width = "100px">|Kazi Shop|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) | [Source code](https://github.com/khalid586/Kazi-Shop) |-|-|
 
 </div>
-
+<br>
+<hr>
 <br> 
 
 <h1> <img align="center" alt="Activities" width="60px" src = "https://cdn.dribbble.com/users/176039/screenshots/5506302/media/79cbe7cf1815a8b5dc825b7063a9a7bd.gif"> |<img src = "https://img.shields.io/badge/Activities-%23Clojure.svg?style=flat" align = "center" width = "120px">| <img align="center" alt="Khalid abdullah | ICPC" width="50px" height = "35px" src="assets/baiustLogo.jpg"></h1>
