@@ -32,7 +32,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <div>
   <h1> <img src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width = "50px" alt = "Myself" align = "center"> About Me </h1>
-  <img align="right" alt="Coding" width="400px" height="250px" src="assets/new.gif"> 
+  <img align="right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/1618311/screenshots/7078466/media/0e691bf24a50a4fad22b5dce9d415213.gif"> 
   <br>
 
 
@@ -90,8 +90,9 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 -->
 <br>
 
-<h1> <img align = "center" alt = "academic" src = "assets/green stat.gif"  width="70px"> |<img align = "center" src = "https://img.shields.io/badge/Experience-%23E60023.svg?style=flat" width = "150px">|  <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px"></h1>
-  <img align="right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/4382412/screenshots/15623896/media/104ffe2afc08de23a5295eca176bef28.gif">
+<div>
+<h1> <img align = "center" alt = "academic" src = "assets/green stat.gif"  width="70px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Experience-%23E60023.svg?style=flat" width = "150px"></a>|  <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px"></h1>
+  <img align="right" alt="Coding" width="400px" height="250px" src="assets/new.gif">
 <ul>
     <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width = "40px" height = "25px"> Represented my <img align="center" alt="Baiust" width="25px" height = "20px" src="assets/baiustLogo.jpg"> <b>Institution </b> at <b>5x Onsite National Programming Competitions</b> <br>which includes <b>2x  <img align="center" alt="Khalid abdullah | ICPC" width="23px" height = "18" src="images.png"> <img align = "center" src = "https://img.shields.io/badge/ICPC Asia -%23E60023.svg?">  Dhaka Regional Contest </b><a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="30px" height = "20px" src="images.png"><b> <img align = "center" src = "https://img.shields.io/badge/ ICPC Credential-%231877F2.svg?" width = "100px"> </b></a> </b> </li>
     <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px" height = "25px"><b> Solved 1000+ algorithmic problems </b>on various coding platforms <img align="center" alt="Khalid abdullah | ICPC" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://www.stopstalk.com/user/profile/khalid58"> <b> <img align = "center" src = "https://img.shields.io/badge/Stats-%231877F2.svg?"> </b></a></li>
@@ -103,16 +104,33 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
     <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" width = "40px" height = "25px"> Conducted Workshops for 1<sup>st</sup> and 2<sup>nd </sup>  year students</li>
     <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/3079111/presentation_d.gif" width = "40px" height = "25px"> <img align = "center" src = "https://img.shields.io/badge/Mentored-%2300f.svg?"> Junior Competitive Programmers of our University </li>
 </ul>
+
+</div>
 <hr>
 
 <br>
 
+<div>
+<h1> <img align = "center" alt = "academic" src = "https://miro.medium.com/v2/resize:fit:640/1*mIQBuaEwQWl7SYZ4hEmFPg.gif"  width="70px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Projects-%23E60023.svg?style=flat" width = "100px"></a>|  <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px"></h1>
+  <img align="right" alt="Coding" width="400px" height="220px" src="https://cdn.dribbble.com/users/4382412/screenshots/15623896/media/104ffe2afc08de23a5295eca176bef28.gif">
+
+|Homepage|Project Name|Framework|Demo|Source Code|
+|-|-|-|-|-|
+|-|Kazi Shop|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) | - | [Source code](https://github.com/khalid586/Kazi-Shop) |
+
+</div>
+
+<br>
+
+<div>
 <h1> <img align = "center" alt = "academic" src = "https://i.pinimg.com/originals/88/40/b8/8840b8d2c07bf805cdab22c0e4b54f59.gif"  width="70px"> |<img align = "center" src = "https://img.shields.io/badge/Achievements-%2300f.svg?style=flat" width = "180px">| </h1>
 <ul>
   <li><img align="center" alt="academics" width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> <b>One of the Top Performers of OOP and Data Structure & Algorithms course</b></li>
   <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b><img align = "center" src = "https://img.shields.io/badge/189-%23E60023.svg?style=flat"> <sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam 2019 (Comilla Board) <img align="center" alt="academics" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b><img align = "center" src = "https://img.shields.io/badge/Ranking-%231877F2.svg?"> </b></a></li>
   <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region(Higher Secondary Division) and Qualified for the National Round </li>
 </ul>
+</div>
+
 <hr>
 
 <br> 
