@@ -119,7 +119,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 |Kazi Shop|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) | - | [Source code](https://github.com/khalid586/Kazi-Shop) |-|
 
 </div>
-<hr>
+
 <br>
 
 <div>
