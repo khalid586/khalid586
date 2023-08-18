@@ -120,7 +120,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 </div>
 
-<br>
+<br><br><br>
 
 <div>
 <h1> <img align = "center" alt = "academic" src = "https://i.pinimg.com/originals/88/40/b8/8840b8d2c07bf805cdab22c0e4b54f59.gif"  width="70px"> |<img align = "center" src = "https://img.shields.io/badge/Achievements-%2300f.svg?style=flat" width = "180px">| </h1>
