@@ -119,7 +119,6 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 </ul>
 </div>
 
-<br><br><br>
 <hr>
 <br>
 
