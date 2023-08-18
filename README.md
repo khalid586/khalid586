@@ -127,7 +127,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <ul>
   <li><img align="center" alt="academics" width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> <b>One of the Top Performers of OOP and Data Structure & Algorithms course</b></li>
   <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b><img align = "center" src = "https://img.shields.io/badge/189-%23E60023.svg?style=flat"> <sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam 2019 (Comilla Board) <img align="center" alt="academics" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b><img align = "center" src = "https://img.shields.io/badge/Ranking-%231877F2.svg?"> </b></a></li>
-  <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region(Higher Secondary Division) and Qualified for the National Round </li>
+  <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region(Higher Secondary Division) <br>and Qualified for the National Round </li>
 </ul>
 </div>
 
