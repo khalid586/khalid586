@@ -119,10 +119,10 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 </ul>
 </div>
 
-<br>
+<br><br>
 
 <div>
-<p> <img align = "center" alt = "academic" src = "https://miro.medium.com/v2/resize:fit:640/1*mIQBuaEwQWl7SYZ4hEmFPg.gif"  width="40px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Projects-%23E60023.svg?style=flat" width = "100px"></a>|  <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "30px"></p>
+<p> <b><img align = "center" alt = "academic" src = "https://miro.medium.com/v2/resize:fit:640/1*mIQBuaEwQWl7SYZ4hEmFPg.gif"  width="40px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Projects-%23E60023.svg?style=flat" width = "100px"></a>|  <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "30px"></b></p>
 <br>
 
 |Preview|Project Name|Framework|Source Code|Video Demo|Live server|
