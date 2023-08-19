@@ -130,7 +130,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 |Preview|Project Name|Frontend|Backend|Source Code|Video Demo|
 |-|-|-|-|-|-|
-|<img align = "center" src = "assets/Homepage.png" width = "100px">|Kazi Shop|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)| [Source code](https://github.com/khalid586/Kazi-Shop) |<a href = "https://youtu.be/x27qBDEJ1HY"> <img src = "https://cdn.dribbble.com/users/1369921/screenshots/3699553/media/632fe87d30ef9413a3512dd317727b8b.gif" width = "60px"> </a>|
+|<img align = "center" src = "assets/Homepage.png" width = "40px">|Kazi Shop|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)| [Source code](https://github.com/khalid586/Kazi-Shop) |<a href = "https://youtu.be/x27qBDEJ1HY"> <img src = "https://cdn.dribbble.com/users/1369921/screenshots/3699553/media/632fe87d30ef9413a3512dd317727b8b.gif" width = "60px"> </a>|
 
 
 </div>
@@ -200,3 +200,9 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
     resume 
     portfolio
 -->
+
+<!-- # Projects
+- Kazi Shop
+  - Frontend - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
+  - Backend -  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)  
+  - Demo - <a href = "https://youtu.be/x27qBDEJ1HY"> <img src = "https://cdn.dribbble.com/users/1369921/screenshots/3699553/media/632fe87d30ef9413a3512dd317727b8b.gif" width = "40px" align = "center"> </a> -->
