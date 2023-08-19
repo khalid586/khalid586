@@ -126,9 +126,11 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <p> <b><img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"  width="70px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Projects-%23E60023.svg?style=flat" width = "100px"></a>|</b></p>
 <br>
 
-|Preview|Project Name|Framework|Source Code|Video Demo|Live server|
+
+|Preview|Project Name|Frontend|Backend|Source Code|Video Demo|
 |-|-|-|-|-|-|
-|<img align = "center" src = "assets/Homepage.png" width = "100px">|Kazi Shop|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) | [Source code](https://github.com/khalid586/Kazi-Shop) |<a href = "https://youtu.be/x27qBDEJ1HY"> <img src = "https://cdn.dribbble.com/users/1369921/screenshots/3699553/media/632fe87d30ef9413a3512dd317727b8b.gif" width = "60px"> </a>|-|
+|<img align = "center" src = "assets/Homepage.png" width = "100px">|Kazi Shop|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)| [Source code](https://github.com/khalid586/Kazi-Shop) |<a href = "https://youtu.be/x27qBDEJ1HY"> <img src = "https://cdn.dribbble.com/users/1369921/screenshots/3699553/media/632fe87d30ef9413a3512dd317727b8b.gif" width = "60px"> </a>|
+
 
 </div>
 <br>
