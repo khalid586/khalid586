@@ -113,7 +113,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 <div>
 <h1> <img align = "center" alt = "academic" src = "https://i.pinimg.com/originals/88/40/b8/8840b8d2c07bf805cdab22c0e4b54f59.gif"  width="70px"> |<img align = "center" src = "https://img.shields.io/badge/Achievements-%2300f.svg?style=flat" width = "180px">| </h1>
-<img  align = "right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/4382412/screenshots/15623896/media/104ffe2afc08de23a5295eca176bef28.gif">
+<img  align = "right" alt="Coding" width="400px" height="250px" src="assets/new1.gif">
 <ul>
   <li><img align="center" alt="academics" width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> <b>One of the Top Performers of OOP and Data Structure & Algorithms course</b></li>
   <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b><a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist> <img align = "center" src = "https://img.shields.io/badge/189-%23E60023.svg?style=flat"></a> <sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam <br>2019 (Comilla Board) <img align="center" alt="academics" width="40px" height = "25px" src="assets/stat.gif"> <a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b><img align = "center" src = "https://img.shields.io/badge/Ranking-%231877F2.svg?"> </b></a></li>
@@ -138,7 +138,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <hr>
 <br> 
 
-<h1> <img align="center" alt="Activities" width="60px" src = "https://cdn.dribbble.com/users/176039/screenshots/5506302/media/79cbe7cf1815a8b5dc825b7063a9a7bd.gif"> |<img src = "https://img.shields.io/badge/Activities-%23Clojure.svg?style=flat" align = "center" width = "120px">| <img align="center" alt="Khalid abdullah | ICPC" width="50px" height = "35px" src="assets/baiustLogo.jpg"></h1>
+<h1> <img align="center" alt="Activities" width="60px" src = "https://cdn.dribbble.com/users/4382412/screenshots/15623896/media/104ffe2afc08de23a5295eca176bef28.gif"> |<img src = "https://img.shields.io/badge/Activities-%23Clojure.svg?style=flat" align = "center" width = "120px">| </h1>
 
 <ul align = "left">
     <li style="margin-top: 15px;"><img align = "center" src = "assets/debater.gif" width = "40px" height = "25px"> Represented my <img align="center" src="assets/cse logo2.png" alt="robo soccer" width="40px" height = "25px" > Department at the <b>Inter Department Debate Competition </b> <img align="center" alt="Debate" width="40px" height = "25px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif"><b> <img align = "center" src = "https://img.shields.io/badge/Glimpse of an Argument-%231877F2.svg?"></b></a></li>
