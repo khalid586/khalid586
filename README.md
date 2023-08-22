@@ -115,7 +115,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <h1> <img align = "center" alt = "academic" src = "https://i.pinimg.com/originals/88/40/b8/8840b8d2c07bf805cdab22c0e4b54f59.gif"  width="70px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Achievements-%2300f.svg?style=flat" width = "180px"></a>| </h1>
 
-<img  align = "right" alt="Coding" width="400px" height="200px" src="https://cdn.dribbble.com/users/729829/screenshots/4314898/galshir-reaching-goals.gif">
+<img  align = "right" alt="Coding" width="400px" height="200px" src="https://cdn.dribbble.com/users/1959912/screenshots/6464044/content_creator_dribbble.gif">
 
 <ul>
   <li><img align="center" alt="academics" width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> <b>One of the Top Performers of OOP and Data Structure & Algorithms course</b></li>
