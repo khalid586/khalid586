@@ -38,10 +38,10 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 
   <ul>
-    <li style="margin-bottom: 7px;"><b><img align = "center" src = "assets/BD%20waving%20flag.gif" width = "35px">  <img align="center" alt="Khalid abdullah | ICPC" width = "30px" height = "22px"  src="images.png"> <i><a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align = "center" src = "https://img.shields.io/badge/ICPC Asia Dhaka Regionalist-%23E60023.svg?"> </a></i></b> </li>
-    <li style="margin-bottom: 7px;"><img align = "center" src = "https://i.pinimg.com/originals/de/01/e7/de01e79dd4c5a4a07ba9ede68dc62486.gif" width = "25px" height = "20px"> <b>Problem Author</b></li>
+    <li style="margin-bottom: 7px;"><b> <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "25px" height = "17px" > <i><a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align = "center" src = "https://img.shields.io/badge/ICPC Asia Dhaka Regionalist-%23E60023.svg?"> </a></i></b> </li>
+    <li style="margin-bottom: 7px;"><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "25px" height = "20px"> <b>Problem Author</b></li>
     <li style="margin-bottom: 7px;"><img align="center" alt="YouTube" width="25px" height = "20px" src="https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif"><b> Programming Mentor</b></li>
-    <li style="margin-bottom: 7px;"><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "25px" height = "20px"><b> Programming Competition Organizer </b></li>
+    <li style="margin-bottom: 7px;"><img align = "center" src = "https://i.pinimg.com/originals/de/01/e7/de01e79dd4c5a4a07ba9ede68dc62486.gif" width = "25px" height = "20px"> <b>Competition Organizer </b></li>
     <!-- <li style="margin-bottom: 7px;"><img align="center" alt="YouTube" width="25px" height = "20px" src="assets/youtube.png"><b> <img align = "center" src = "https://img.shields.io/badge/Content Creator-grey.svg?"></b></li> -->
     <li style="margin-bottom: 7px;"><img align = "center" src = "assets/speak.webp" width = "25px" height = "20px"><b> Debater</b></li>
   </ul> 
