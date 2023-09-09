@@ -138,9 +138,9 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br><br>
 
-<h1> <img align="center" alt="Activities" width="60px" src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif"> |<img src = "https://img.shields.io/badge/Activities-%23Clojure.svg?style=flat" align = "center" width = "120px"></a>| </h1>
+<h1> <img align="center" alt="Activities" width="60px" src = "https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif"> |<img src = "https://img.shields.io/badge/Activities-%23Clojure.svg?style=flat" align = "center" width = "120px"></a>| </h1>
 
-<img  align = "right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif">
+<img  align = "right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif">
 
 <ul align = "left">
     <li style="margin-top: 15px;"><img align = "center" src = "assets/debater.gif" width = "40px" height = "25px"> Represented my <img align="center" src="assets/cse logo2.png" alt="robo soccer" width="40px" height = "25px" > Department at the <b>Inter Department Debate Competition </b> <img align="center" alt="Debate" width="40px" height = "25px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif"><b> <img align = "center" src = "https://img.shields.io/badge/Glimpse of an Argument-%231877F2.svg?"></b></a></li>
