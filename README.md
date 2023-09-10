@@ -1,4 +1,4 @@
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="300" src="assets/banner%20gif.gif"></a> <br>
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="400" src="assets/banner%20gif.gif"></a> <br>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum;Welcome+to+My+Profile"></a>
 
 <p align = "center"><img align = "center" src = "https://media.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width = "40px"> <a href = "https://drive.google.com/file/d/1I9a2c-kg4D501A1PyovhlvmF93PW23V2/view?usp=drivesdk"><img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah-white.svg?" width = "200px"></a></p>
@@ -92,7 +92,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 <div>
-<h1> <img align = "center" alt = "academic" src = "assets/green stat.gif"  width="70px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Experience-%23E60023.svg?style=flat" width = "150px"></a>|  <img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px"></h1>
+<h1> <img align = "center" alt = "academic" src = "assets/green stat.gif"  width="70px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Experience-%23E60023.svg?style=flat" width = "150px"></a>| </h1>
   <img align="right" alt="Coding" width="400px" height="280px" src="assets/new.gif">
 <ul>
     <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width = "40px" height = "25px"> Represented my <img align="center" alt="Baiust" width="25px" height = "20px" src="assets/baiustLogo.jpg"> <b>Institution </b> at <b>5x Onsite National Programming Competitions</b> <br>which includes <b>2x  <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="23px" height = "18" src="images.png"> <img align = "center" src = "https://img.shields.io/badge/ICPC Asia -%23E60023.svg?"></a>  Dhaka Regional Contest </b><a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="30px" height = "20px" src="images.png"><b> <img align = "center" src = "https://img.shields.io/badge/ ICPC Credential-%231877F2.svg?" width = "100px"> </b></a> </b> </li>
