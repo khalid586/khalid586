@@ -170,7 +170,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 
-<h1> <img align="center" alt="Achievements" width="60px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Competitive Rankings-%23E60023.svg?style=flat" width = "220px">|<img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px"> </a></h1>
+<h1> <img align="center" alt="Achievements" width="60px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Competitive Rankings-%23E60023.svg?style=flat" width = "220px"> </a>|<img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px"></h1>
 
 <img  align = "right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/1959912/screenshots/6463995/competition_dribbble.gif">
 
