@@ -188,7 +188,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
     
 </ul>
 
-### <img align = "center" alt="Coding" width="45px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif"> <a href = "https://github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Onsite-%23E60023.svg?style=flat" width = "70px"></a>
+### <img align = "center" alt="Coding" width="45px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif"> <a href = "https://github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Onsite Contest-%23E60023.svg?style=flat" width = "70px"></a>
 
 |Platform|Contest Title|Rank|Registered participants|Result|Standings|
 |--------|-------------|----|-----------------------|------|---------|
@@ -197,7 +197,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 
 
-### <img align = "center" alt="Coding" width="45px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif"><a href = "https://github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Online-%23E60023.svg?style=flat" width = "70px"> </a>
+### <img align = "center" alt="Coding" width="45px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif"><a href = "https://github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Online Contest-%23E60023.svg?style=flat" width = "70px"> </a>
 
 |Platform|Contest Title|Rank|Registered participants|Result|Standings|
 |--------|-------------|----|-----------------------|------|---------|
