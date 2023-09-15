@@ -190,10 +190,10 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 ### <img align = "center" alt="Coding" width="45px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif"> <a href = "https://github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Onsite Contest-%23E60023.svg?style=flat" width = "150px"></a>
 
-|Platform|Contest Title|Rank|Registered participants|Result|Standings|
-|--------|-------------|----|-----------------------|------|---------|
-| <img align="center" alt="ICPC" width="45px" height = "30px" src="images.png"> <br>**ICPC**| ICPC Asia Dhaka Regional 2022 | 131 | 162 |Honourable Mention| <a href = "https://algo.codemarshal.org/contests/dhaka-22/standings"> <img align = "center" src = "https://img.shields.io/badge/131-%23E60023.svg?style=flat"></a> |
-| <img align="center" alt="ICPC" width="45px" height = "30px" src="images.png"> <br>**ICPC**| ICPC Asia Dhaka Regional 2021 | 127 | 165|Honourable Mention | <a href = "https://algo.codemarshal.org/contests/dhaka-21-main/standings"><b><img align = "center" src = "https://img.shields.io/badge/127-%23E60023.svg?style=flat"></a> |
+|Platform|Contest Title|Hosted By|Rank|Registered participants|Result|Standings|
+|--------|-------------|----|----|-------------------|------|---------|
+| <img align="center" alt="ICPC" width="45px" height = "30px" src="images.png"> <br>**ICPC**| <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "30px"> ICPC Asia Dhaka Regional 2022 |GUB| 131 | 162 |<img align="center" alt="ICPC" width="33px" height = "22px" src="images.png"> Honourable Mention| <a href = "https://algo.codemarshal.org/contests/dhaka-22/standings"> <img align = "center" src = "https://img.shields.io/badge/131-%23E60023.svg?style=flat"></a> |
+| <img align="center" alt="ICPC" width="45px" height = "30px" src="images.png"> <br>**ICPC**| <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "30px"> ICPC Asia Dhaka Regional 2021 |BUBT| 127 | 165|<img align="center" alt="ICPC" width="33px" height = "22px" src="images.png"> Honourable Mention | <a href = "https://algo.codemarshal.org/contests/dhaka-21-main/standings"><b><img align = "center" src = "https://img.shields.io/badge/127-%23E60023.svg?style=flat"></a> |
 
 
 
@@ -201,10 +201,10 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 |Platform|Contest Title|Rank|Registered participants|Result|Standings|
 |--------|-------------|----|-----------------------|------|---------|
-| <img align="center" alt="ICPC" width="45px" height = "30px" src="images.png"> <br>**ICPC**| ICPC Asia Dhaka Regional 2022 Preliminary | 398 | 1600+   |Qualified to Regional Round|<a href = "https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings?page=2"> <b><img align = "center" src = "https://img.shields.io/badge/398-%23E60023.svg?style=flat"></a> |
-| <img align="center" alt="ICPC" width="45px" height = "30px" src="images.png"> <br>**ICPC**| ICPC Asia Dhaka Regional 2021 Preliminary | 268 | 1700+   |Qualified to Regional Round|<a href = "https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings?page=2"><img align = "center" src = "https://img.shields.io/badge/268-%23E60023.svg?style=flat"></a> |
-| <img align="center" alt="ICPC" width="45px" height = "30px" src="assets/codechef.PNG">  <br>**Codechef** | Codechef October Challenge 2021 | 81   | 20000+|Rating increased 80+| <a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "><img align = "center" src = "https://img.shields.io/badge/81-%23E60023.svg?style=flat"></a> |
-| <img align="center" alt="ICPC" width="45px" height = "30px" src="assets/codechef.PNG"> <br>**Codechef**  | Codechef Code senso             | 614  | 5000+ | Rating increased 50+|<a href = "https://www.codechef.com/rankings/CSNS21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank"><img align = "center" src = "https://img.shields.io/badge/614-%23E60023.svg?style=flat"></a> |
+| <img align="center" alt="ICPC" width="45px" height = "30px" src="images.png"> <br>**ICPC**| ICPC Asia Dhaka Regional 2022 Preliminary | 398 | 1600+   |✅ Qualified to Regional Round|<a href = "https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings?page=2"> <b><img align = "center" src = "https://img.shields.io/badge/398-%23E60023.svg?style=flat"></a> |
+| <img align="center" alt="ICPC" width="45px" height = "30px" src="images.png"> <br>**ICPC**| ICPC Asia Dhaka Regional 2021 Preliminary | 268 | 1700+   |✅ Qualified to Regional Round|<a href = "https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings?page=2"><img align = "center" src = "https://img.shields.io/badge/268-%23E60023.svg?style=flat"></a> |
+| <img align="center" alt="ICPC" width="45px" height = "30px" src="assets/codechef.PNG">  <br>**Codechef** | Codechef October Challenge 2021 | 81   | 20000+|💹 Rating increased 80+| <a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "><img align = "center" src = "https://img.shields.io/badge/81-%23E60023.svg?style=flat"></a> |
+| <img align="center" alt="ICPC" width="45px" height = "30px" src="assets/codechef.PNG"> <br>**Codechef**  | Codechef Code senso             | 614  | 5000+ |💹 Rating increased 50+|<a href = "https://www.codechef.com/rankings/CSNS21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank"><img align = "center" src = "https://img.shields.io/badge/614-%23E60023.svg?style=flat"></a> |
 
 <hr>
 
