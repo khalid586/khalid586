@@ -2,7 +2,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum;Welcome+to+My+Profile"></a>
 
 <p align = "center"><img align = "center" src = "https://media.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width = "40px"> <a href = "https://drive.google.com/file/d/1I9a2c-kg4D501A1PyovhlvmF93PW23V2/view?usp=drivesdk"><img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah-white.svg?" width = "200px"></a></p>
-<h4 align="center"> | <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "30px"> | <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU" target = "_blank"> <img align = "center" src = "https://img.shields.io/badge/Bangladeshi Sports Programmer-%23E60023.svg?"></a> |  </h4>
+<h4 align="center">  <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "30px"> <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU" target = "_blank"> <img align = "center" src = "https://img.shields.io/badge/Bangladeshi Sports Programmer-%23E60023.svg?"></a>  </h4>
 
 <!-- <br><br> | <img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "25px"> | <img align = "center" src = "https://img.shields.io/badge/Fullstack Developer-%2300f.svg?"> |
  -->
@@ -32,7 +32,8 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br><br>
 
 <div>
-  <h1> <img src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width = "50px" alt = "Myself" align = "center"> About Me </h1>
+ 
+# <img src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width = "50px" alt = "Myself" align = "center"> About Me
   <img align="right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/1618311/screenshots/7078466/media/0e691bf24a50a4fad22b5dce9d415213.gif"> 
   <br>
 
@@ -92,7 +93,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 <div>
-<h1> <img align = "center" alt = "academic" src = "assets/green stat.gif"  width="70px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Experience-%23E60023.svg?style=flat" width = "150px"></a>| </h1>
+<h1> <img align = "center" alt = "academic" src = "assets/green stat.gif"  width="70px"> <a href = "http://www.github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Experience-%23E60023.svg?style=flat" width = "150px"></a> </h1>
   <img align="right" alt="Coding" width="400px" height="280px" src="assets/new.gif">
 <ul>
     <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width = "40px" height = "25px"> Represented my <img align="center" alt="Baiust" width="25px" height = "20px" src="assets/baiustLogo.jpg"> <b>Institution </b> at <b>5x Onsite National Programming Competitions</b> <br>which includes <b>2x  <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="23px" height = "18" src="icpc.jpeg"> <img align = "center" src = "https://img.shields.io/badge/ICPC Asia -%23E60023.svg?"></a>  Dhaka Regional Contest </b><a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="30px" height = "20px" src="icpc.jpeg"><b> <img align = "center" src = "https://img.shields.io/badge/ ICPC Credential-%231877F2.svg?" width = "100px"> </b></a> </b> </li>
@@ -113,7 +114,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br> 
 
-<h1> <img align="center" alt="academics" width="60px" height = "40px" src="assets/stat.gif"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Achievements-%2300f.svg?style=flat" width = "180px"></a>| </h1>
+<h1> <img align="center" alt="academics" width="60px" height = "40px" src="assets/stat.gif"> <a href = "http://www.github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Achievements-%2300f.svg?style=flat" width = "180px"></a> </h1>
 
 <img  align = "right" alt="Coding" width="400px" height="200px" src="https://cdn.dribbble.com/users/1959912/screenshots/6464044/content_creator_dribbble.gif">
 
@@ -138,7 +139,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br><br>
 
-<h1> <img align="center" alt="Activities" width="60px" src = "https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif"> |<a href = "http://www.github.com/khalid586"><img src = "https://img.shields.io/badge/Activities-%23Clojure.svg?style=flat" align = "center" width = "120px"></a>| </h1>
+<h1> <img align="center" alt="Activities" width="60px" src = "https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif"> <a href = "http://www.github.com/khalid586"> <img src = "https://img.shields.io/badge/Activities-%23Clojure.svg?style=flat" align = "center" width = "120px"></a> </h1>
 
 <img  align = "right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif">
 
@@ -154,7 +155,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 <div>
-<p> <b><img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"  width="70px"> |<a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Projects-%23E60023.svg?style=flat" width = "100px"></a>|</b></p>
+<p> <b><img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"  width="70px"> <a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Projects-%23E60023.svg?style=flat" width = "100px"></a></b></p>
 
 |Preview|Project Name|Frontend|Backend|Source Code|Video Demo|
 |-|-|-|-|-|-|
@@ -170,7 +171,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 
-# <img align="center" alt="Achievements" width="60px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> | Competitive Rankings |<img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px">
+# <img align="center" alt="Achievements" width="60px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> Competitive Rankings <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px">
 
 <img  align = "right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/1959912/screenshots/6463995/competition_dribbble.gif">
 
