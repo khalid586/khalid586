@@ -170,7 +170,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 
-<h1> <img align="center" alt="Achievements" width="60px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> | Competitive Rankings |<img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px"></h1>
+# <img align="center" alt="Achievements" width="60px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> | Competitive Rankings |<img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px">
 
 <img  align = "right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/1959912/screenshots/6463995/competition_dribbble.gif">
 
@@ -210,7 +210,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br>
 
-<h1> <p> <img align="center" alt="Khalid abdullah | stats" width="65px" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif"> Github Stats</h1> </p>
+ # <img align="center" alt="Khalid abdullah | stats" width="65px" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif"> Github Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false)
 <p>&nbsp;<img  width = "500px" align="center" src="https://github-readme-stats.vercel.app/api?username=khalid586&show_icons=true&theme=midnight-purple&locale=en"&include_all_commits=false&count_private=true" alt="khalid586" /></p>
