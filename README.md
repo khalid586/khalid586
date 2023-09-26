@@ -93,7 +93,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 <div>
-<h1> <img align = "center" alt = "academic" src = "assets/green stat.gif"  width="70px"> <a href = "http://www.github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Experience-%23E60023.svg?style=flat" width = "150px"></a> </h1>
+<h1> <img align = "center" alt = "academic" src = "assets/green stat.gif"  width="60px" height = "45px"> <a href = "http://www.github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Experience-%23E60023.svg?style=flat" width = "130px"></a> </h1>
   <img align="right" alt="Coding" width="400px" height="280px" src="assets/new.gif">
 <ul>
     <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width = "40px" height = "25px"> Represented my <img align="center" alt="Baiust" width="25px" height = "20px" src="assets/baiustLogo.jpg"> <b>Institution </b> at <b>5x Onsite National Programming Competitions</b> <br>which includes <b>2x  <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="23px" height = "18" src="icpc.jpeg"> <img align = "center" src = "https://img.shields.io/badge/ICPC Asia -%23E60023.svg?"></a>  Dhaka Regional Contest </b><a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align="center" alt="Khalid abdullah | ICPC" width="30px" height = "20px" src="icpc.jpeg"><b> <img align = "center" src = "https://img.shields.io/badge/ ICPC Credential-%231877F2.svg?" width = "100px"> </b></a> </b> </li>
@@ -114,7 +114,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br> 
 
-<h1> <img align="center" alt="academics" width="60px" height = "40px" src="assets/stat.gif"> <a href = "http://www.github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Achievements-%2300f.svg?style=flat" width = "180px"></a> </h1>
+<h1> <img align="center" alt="academics" width="60px" height = "40px" src="assets/stat.gif"> <a href = "http://www.github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Achievements-%2300f.svg?style=flat" width = "150px"></a> </h1>
 
 <img  align = "right" alt="Coding" width="400px" height="200px" src="https://cdn.dribbble.com/users/1959912/screenshots/6464044/content_creator_dribbble.gif">
 
@@ -139,7 +139,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br><br>
 
-<h1> <img align="center" alt="Activities" width="60px" src = "https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif"> <a href = "http://www.github.com/khalid586"> <img src = "https://img.shields.io/badge/Activities-%23Clojure.svg?style=flat" align = "center" width = "120px"></a> </h1>
+<h1> <img align="center" alt="Activities" width="60px" src = "https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif"> <a href = "http://www.github.com/khalid586"> <img src = "https://img.shields.io/badge/Activities-%23Clojure.svg?style=flat" align = "center" width = "90px"></a> </h1>
 
 <img  align = "right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif">
 
@@ -171,7 +171,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 
-# <img align="center" alt="Achievements" width="60px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> Competitive Rankings <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "50px">
+# <img align="center" alt="Achievements" width="60px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> <a href = "https://github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Competitive Rankings-%23E60023.svg?style=flat" width = "200px"> </a> <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "45px" height = "30px">
 
 <img  align = "right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/1959912/screenshots/6463995/competition_dribbble.gif">
 
@@ -189,7 +189,8 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
     
 </ul>
 
-### <img align = "center" alt="Coding" width="45px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif"> <a href = "https://github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Onsite Contest-%23E60023.svg?style=flat" width = "150px"></a>
+
+### <img align = "center" alt="Coding" width="45px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif"> <a href = "https://github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Onsite Contest-%23E60023.svg?style=flat" width = "120px"></a>
 
 |Organizer|Contest Title|Host|Rank|QUALIFIED Participants|Result|Standings|
 |--------|-------------|----|----|-------------------|------|---------|
@@ -198,7 +199,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 |<img align="center" alt="ICPC" width="45px" height = "35px" src="assets/sust_iupc.PNG"> |Inter University Programming Contest|SUST|80|120|💹 **Rating increased by 100+**|[<img align = "center" src = "https://img.shields.io/badge/80-%23E60023.svg?style=flat">](https://toph.co/c/sust-inter-university-2023/standings)|
 
 
-### <img align = "center" alt="Coding" width="45px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif"><a href = "https://github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Online Contest-%23E60023.svg?style=flat" width = "150px"> </a>
+### <img align = "center" alt="Coding" width="45px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif"><a href = "https://github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Online Contest-%23E60023.svg?style=flat" width = "120px"> </a>
 
 |Organizer|Contest Title|Rank|Registered participants|Result|Standings|
 |--------|-------------|----|-----------------------|------|---------|
@@ -211,14 +212,16 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br>
 
- # <img align="center" alt="Khalid abdullah | stats" width="65px" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif"> Github Stats
+ <img align="center" alt="Khalid abdullah | stats" width="65px" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif"> **Github Stats**
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false)
 <p>&nbsp;<img  width = "500px" align="center" src="https://github-readme-stats.vercel.app/api?username=khalid586&show_icons=true&theme=midnight-purple&locale=en"&include_all_commits=false&count_private=true" alt="khalid586" /></p>
 
 <br>
 
-<h1> <p > <img align="center" alt="Khalid abdullah | ICPC" width="60px" src="assets/Tools 2.gif"> Language & Tools</p> </h1>
+<img align="center" alt="Khalid abdullah | ICPC" width="60px" src="assets/Tools 2.gif"> **Language & Tools**
+
+
 
 |Frontend|Backend|Database|Languages|Others|
 |-|-|-|-|-|
