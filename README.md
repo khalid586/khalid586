@@ -33,7 +33,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <div>
  
-# <img src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width = "50px" alt = "Myself" align = "center"> About Me
+# About Me 
   <img align="right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/1618311/screenshots/7078466/media/0e691bf24a50a4fad22b5dce9d415213.gif"> 
   <br>
 
@@ -55,7 +55,8 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 <div>
-<h1> <img align = "center" src = "https://cdn.dribbble.com/users/752929/screenshots/4063794/it-team-working.gif" width = "60px"> Connect with Me</h1>
+
+# Connect with Me
 
 <img align="right" alt="working" width="400px" height="250px" src="assets/social.gif"> 
   <br>
