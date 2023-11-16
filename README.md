@@ -84,8 +84,15 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 
 <hr>
-
 <br>
+
+<h2 align="center">👨‍💻 Must Check Repositories </h2>
+<br>
+<div width="100%" align="center"><a align="left" href=https://github.com/khalid586/Competitive-programming-Topics" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalid586&repo=Competitive-programming-Topics&theme=react&border_color=61dafb&border_radius=20"></a><a align="right" href="https://github.com/khalid586/CSES-Problemset-Solutions" title="RailSheba"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalid586&repo=CSES-Problemset-Solutions&theme=react&border_color=61dafb&border_radius=20"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<!-- <br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center"><a align="left" href="https://github.com/mdsajalcse/Explore-JavaScript" title="JavaScript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=Explore-JavaScript&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/mdsajalcse/C-Programming-Math-Functions" title="C-Programming-Math-Functions"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=C-Programming-Math-Functions&theme=react&border_color=61dafb&border_radius=10"></a> -->
 
 # [<img align="center" alt="Khalid abdullah | stats" width="65px" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif">]() Github Stats
 
@@ -114,6 +121,8 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)<br> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)<br> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)<br>![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)<br>|![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)|
 
 <br>
+
+
 
 <details>
 <summary><b>Experience</b></summary>
@@ -224,7 +233,6 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 [![An image of @khalid586's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khalid586)](https://holopin.io/@khalid586)
 
 </details>
-
 
 
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)  -->
