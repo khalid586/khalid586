@@ -88,11 +88,13 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <h2 align="center">👨‍💻 Must Check Repositories </h2>
 <br>
-<div width="100%" align="center"><a align="left" href=https://github.com/khalid586/Competitive-programming-Topics" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalid586&repo=Competitive-programming-Topics&theme=react&border_color=61dafb&border_radius=20"></a><a align="right" href="https://github.com/khalid586/CSES-Problemset-Solutions" title="RailSheba"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalid586&repo=CSES-Problemset-Solutions&theme=react&border_color=61dafb&border_radius=20"></a>
+<div width="100%" align="center"><a align="left" href="https://github.com/khalid586/Competitive-programming-Topics" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalid586&repo=Competitive-programming-Topics&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/khalid586/CSES-Problemset-Solutions" title="RailSheba"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalid586&repo=CSES-Problemset-Solutions&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <!-- <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center"><a align="left" href="https://github.com/mdsajalcse/Explore-JavaScript" title="JavaScript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=Explore-JavaScript&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/mdsajalcse/C-Programming-Math-Functions" title="C-Programming-Math-Functions"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=C-Programming-Math-Functions&theme=react&border_color=61dafb&border_radius=10"></a> -->
+
+<div>
 
 # [<img align="center" alt="Khalid abdullah | stats" width="65px" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif">]() Github Stats
 
@@ -108,6 +110,8 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
             </tr>
       </thead>
 </table>
+
+</div>
 
 <br>
 
