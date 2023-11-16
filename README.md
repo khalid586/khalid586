@@ -1,5 +1,3 @@
-
-
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="400" src="assets/banner%20gif.gif"></a> <br>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum;Welcome+to+My+Profile"></a>
 
@@ -74,10 +72,10 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 </ul>
 </div>
 
-<br>
+<br><br>
 
-<div>
-<p> <b><img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"  width="70px"> <a href = "http://www.github.com/khalid586"><img align = "center" src = "https://img.shields.io/badge/Projects-%23E60023.svg?style=flat" width = "100px"></a></b></p>
+
+# [<img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"  width="70px">]() Projects
 
 |Preview|Project Name|Frontend|Backend|Source Code|Video Demo|
 |-|-|-|-|-|-|
@@ -85,14 +83,11 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 |-|<b>Blogging App</b>|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)<br> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)|-|-|
 
 
-</div>
-
-
 <hr>
 
 <br>
 
- <img align="center" alt="Khalid abdullah | stats" width="65px" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif"> **Github Stats**
+# [<img align="center" alt="Khalid abdullah | stats" width="65px" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif">]() Github Stats
 
 <table>
       <thead>
@@ -110,7 +105,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 
-<img align="center" alt="Khalid abdullah | ICPC" width="60px" src="assets/Tools 2.gif"> **Language & Tools**
+# [<img align="center" alt="Khalid abdullah | ICPC" width="60px" src="assets/Tools 2.gif">]() Language & Tools
 
 
 
