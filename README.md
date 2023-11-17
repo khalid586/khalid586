@@ -184,7 +184,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 |Events|Reference|
 |------|---------|
-|Ranked <b> <a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "><img align = "center" src = "https://img.shields.io/badge/81-%23E60023.svg?style=flat"></a> <sup> st </sup> </b>(out of 20000+ registered participants) at codechef October challenge 2021|<a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> <b</b> </a>|
+|Ranked <b> <a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "><img align = "center" src = "https://img.shields.io/badge/81-%23E60023.svg?style=flat"></a> <sup> st </sup> </b>(out of 20000+ registered participants) at codechef October challenge 2021|<a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> <b><img align = "center" src = "https://img.shields.io/badge/Standings-%231877F2.svg?"></b> </a>|
 |Ranked <b><a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist> <img align = "center" src = "https://img.shields.io/badge/189-%23E60023.svg?style=flat"></a> <sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam <br>2019 (Comilla Board)|<a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b><img align = "center" src = "https://img.shields.io/badge/Ranking-%231877F2.svg?"> </b></a>|
 
 </details>
