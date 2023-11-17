@@ -145,6 +145,8 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
     <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" width = "40px" height = "25px"> Conducted Workshops for 1<sup>st</sup> and 2<sup>nd </sup>  year students</li>
 </ul>
 
+<br>
+
 <b>Details</b>
 |Events|Reference|
 |-----|---------|
@@ -168,12 +170,17 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <img  align = "right" alt="Coding" width="400px" height="200px" src="https://cdn.dribbble.com/users/1959912/screenshots/6464044/content_creator_dribbble.gif">
 
+<p> <b>Brief</b> </p>
+
 <ul>
   <li style="margin-bottom: 5px;"><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked 81<sup>st</sup> in a GLOBAL coding competition</li>
   <li><img align="center" alt="academics" width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> One of the Top Performers of <b>OOP and Data Structure & Algorithms course</li>
   <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked 189<sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam <br>2019 (Comilla Board)</li>
-  <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region<br>(Higher Secondary Division) and Qualified for the National Round </li>
+  <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region<br>(Higher Secondary Division) and Qualified for the National Round  </li>
 </ul>
+
+<br>
+<p> <b>Details</b> </p>
 
 |Events|Reference|
 |------|---------|
@@ -190,15 +197,25 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <img  align = "right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif">
 
+<p> <b>Brief</b> </p>
+
 <ul align = "left">
-    <li style="margin-top: 15px;"><img align = "center" src = "assets/debater.gif" width = "40px" height = "25px"> Represented my Department at the <b>Inter Department Debate Competition </b> <img align="center" alt="Debate" width="40px" height = "25px" src="assets/Debate.gif"> <a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif"><b> <img align = "center" src = "https://img.shields.io/badge/Glimpse of an Argument-%231877F2.svg?"></b></a></li>
-    <li style="margin-top: 15px;"><img align="center" src="https://cdn.dribbble.com/users/3651832/screenshots/7058203/rob.gif" alt="robo soccer" width="40px" height = "25px" > Represented my Department at the <b>Intra University Robo Soccer Competition</b> and <b>reached the Semi-Finals</b> <a href = "https://youtube.com/shorts/G7kZ1D6HHao"><img align = "center" src = "assets/robo soccer.png" width="40px" height = "25px"> <img align = "center" src = "https://img.shields.io/badge/Glimpse-%2300f.svg?"></a></li>
+    <li style="margin-top: 15px;"><img align = "center" src = "assets/debater.gif" width = "40px" height = "25px"> Participated in Debate Competition</li>
+    <li style="margin-top: 15px;"><img align="center" src="https://cdn.dribbble.com/users/3651832/screenshots/7058203/rob.gif" alt="robo soccer" width="40px" height = "25px" > Semi-finalist at Robo soccer competition</li>
     <li style="margin-top: 15px;"><img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px" height = "25px"> Participated in Global coding contest such as Google Kickstart , CodeJam and Facebook HackerCup</li>
     <li style="margin-top: 15px;"><img align = "center" src = "https://cdn.dribbble.com/users/176039/screenshots/5506302/media/79cbe7cf1815a8b5dc825b7063a9a7bd.gif" width = "40px" height = "25px"> Participated in several Online Hackathons</li>
-    
-    
-    
+        
 </ul>
+
+<br>
+
+<p> <b>Details</b> </p>
+
+|Events|Reference|
+|------|---------|
+|<b>Represented my Department at the Inter Department Debate Competition </b>|<a href = "https://github.com/khalid586/khalid586/blob/main/assets/Debate.gif"><b> <img align="center" alt="Debate" width="40px" height = "25px" src="assets/Debate.gif"><img align = "center" src = "https://img.shields.io/badge/Glimpse of an Argument-%231877F2.svg?"></b></a>|
+|Represented my Department at the <b>Intra University Robo Soccer Competition</b> and <b>reached the Semi-Finals</b>| <a href = "https://youtube.com/shorts/G7kZ1D6HHao"><img align = "center" src = "assets/robo soccer.png" width="40px" height = "25px"> <img align = "center" src = "https://img.shields.io/badge/Glimpse-%2300f.svg?"></a>|
+
 
 </details>
 
