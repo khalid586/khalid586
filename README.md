@@ -87,7 +87,6 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br>
 
 <h2 align="center">👨‍💻 Must Check Repositories </h2>
-<br>
 
 |<a href="https://github.com/khalid586/Competitive-programming-Topics" title="Software"><img width = "100%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=khalid586&repo=Competitive-programming-Topics&theme=react&border_color=61dafb&border_radius=10"></a>|<a href="https://github.com/khalid586/CSES-Problemset-Solutions" title="RailSheba"><img height="100%"  width = "100%" src="https://github-readme-stats.vercel.app/api/pin/?username=khalid586&repo=CSES-Problemset-Solutions&theme=react&border_color=61dafb&border_radius=10"></a>|
 |-|-|
