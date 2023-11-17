@@ -88,9 +88,9 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <h2 align="center">👨‍💻 Must Check Repositories </h2>
 <br>
-<div width="100%" align="center"><a href="https://github.com/khalid586/Competitive-programming-Topics" title="Software"><img align="left" width = "40%" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=khalid586&repo=Competitive-programming-Topics&theme=react&border_color=61dafb&border_radius=10"></a><a href="https://github.com/khalid586/CSES-Problemset-Solutions" title="RailSheba"><img align="right" height="50%"  width = "40%" src="https://github-readme-stats.vercel.app/api/pin/?username=khalid586&repo=CSES-Problemset-Solutions&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br>
+
+|<a href="https://github.com/khalid586/Competitive-programming-Topics" title="Software"><img width = "100%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=khalid586&repo=Competitive-programming-Topics&theme=react&border_color=61dafb&border_radius=10"></a>|<a href="https://github.com/khalid586/CSES-Problemset-Solutions" title="RailSheba"><img height="100%"  width = "100%" src="https://github-readme-stats.vercel.app/api/pin/?username=khalid586&repo=CSES-Problemset-Solutions&theme=react&border_color=61dafb&border_radius=10"></a>|
+|-|-|
 <!-- <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center"><a align="left" href="https://github.com/mdsajalcse/Explore-JavaScript" title="JavaScript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=Explore-JavaScript&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/mdsajalcse/C-Programming-Math-Functions" title="C-Programming-Math-Functions"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=C-Programming-Math-Functions&theme=react&border_color=61dafb&border_radius=10"></a> -->
 
