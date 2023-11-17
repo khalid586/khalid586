@@ -226,16 +226,15 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <img  align = "right" alt="Coding" width="400px" height="250px" src="https://cdn.dribbble.com/users/1959912/screenshots/6463995/competition_dribbble.gif">
 
-<ul align = "left">
-    <li style="margin-bottom: 5px;"><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked <b>81<sup> st </sup> </b> in Codechef October Challenge 2021</li>
-    <li style="margin-bottom: 5px;"><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked 127<sup>th</sup> in ICPC Asia Regional 2021 Onsite Round</li> 
-    <li style="margin-bottom: 5px;"><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked 131<sup>st</sup> in ICPC Asia Dhaka Regional 2022 Onsite Round</li> 
-   <li style="margin-bottom: 5px;"><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked <b>268<sup>th</sup>(out of 1700+ registered teams) in ICPC Asia Dhaka Regional online preli 2021 and qualified for Onsite Round</li> 
-    <li style="margin-bottom: 5px;" ><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked 398<sup>th</sup>(out of 1600+ registered teams) in ICPC Asia Dhaka Regional online preli 2022 and qualified for Onsite Round <a href = "https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings?page=2"> </a></li> 
-    <li style="margin-bottom: 5px;"><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked  <b>614<sup>th</sup> (out of 5000+ registered participants) in <br>Codechef Code senso  <a href = "https://www.codechef.com/rankings/CSNS21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank"> <b</b> </a></li>
-    <li style="margin-bottom: 5px;"><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px" align = "center"> Ranked <b> 3428<sup>th</sup>(out of 8500+ registered participants) in <br>Codeforces Round 773 (Div. 2) <a href = "https://codeforces.com/contest/1642/standings/participant/128848941#p128848941">  <b</b></a>
-    </li>
-    <li style="margin-bottom: 5px;">Ranked <b>4<sup>th</sup></b> at Intra University LFR competition</li>
+- <img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked <b>`81`<sup> st </sup> </b> in Codechef October Challenge 2021
+- <img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked `127`<sup>th</sup> in ICPC Asia Regional 2021 Onsite Round
+- <img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked `131`<sup>st</sup> in ICPC Asia Dhaka Regional 2022 Onsite Round
+- <img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked <b>`268`<sup>th</sup>(out of 1700+ registered teams) in ICPC Asia Dhaka Regional online preli 2021 and qualified for Onsite Round
+- <img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked `398`<sup>th</sup>(out of 1600+ registered teams) in ICPC Asia Dhaka Regional online preli 2022 and qualified for Onsite Round
+- <img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked  <b>`614`<sup>th</sup> (out of 5000+ registered participants) in <br>Codechef Code senso 
+- <img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px" align = "center"> Ranked <b> `3428`<sup>th</sup>(out of 8500+ registered participants) in <br>Codeforces Round 773 (Div. 2)
+- Ranked <b>`4`<sup>th</sup></b> at Intra University LFR competition
+
     
     
 </ul>
