@@ -134,7 +134,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
   <img align="right" alt="Coding" width="400px" height="280px" src="assets/new.gif">
   <p> <b>Brief</b> </p>
 <ul>
-    <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width = "40px" height = "25px"><b>Participated in ICPC regional 3 times</b></li>
+    <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width = "40px" height = "25px"><b>Participated in ICPC Asia Dhaka regional 3 times</b></li>
     <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px" height = "25px"><b> Solved 1000+ algorithmic problems </b>on various coding platforms</li>
     <li style="margin-bottom: 12px;"><img align = "center" src = "https://www.lambdatest.com/resources/images/news24.gif" width = "40px" height = "25px"> Participated in <b>50+ Online Programming Competitions</li>
     <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "40px" height = "25px"><b> Problemsetter at Junior IUPC</b>
@@ -169,11 +169,16 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <img  align = "right" alt="Coding" width="400px" height="200px" src="https://cdn.dribbble.com/users/1959912/screenshots/6464044/content_creator_dribbble.gif">
 
 <ul>
-  <li style="margin-bottom: 5px;"><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked <b> <a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "><img align = "center" src = "https://img.shields.io/badge/81-%23E60023.svg?style=flat"></a> <sup> st </sup> </b>(out of 20000+ registered participants) in a GLOBAL coding competition.<a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> <b><img align = "center" src = "https://img.shields.io/badge/Standings-%231877F2.svg?"></b> </a></li>
+  <li style="margin-bottom: 5px;"><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked 81<sup>st</sup> in a GLOBAL coding competition</li>
   <li><img align="center" alt="academics" width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> One of the Top Performers of <b>OOP and Data Structure & Algorithms course</li>
-  <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b><a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist> <img align = "center" src = "https://img.shields.io/badge/189-%23E60023.svg?style=flat"></a> <sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam <br>2019 (Comilla Board)<a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b><img align = "center" src = "https://img.shields.io/badge/Ranking-%231877F2.svg?"> </b></a></li>
+  <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked 189<sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam <br>2019 (Comilla Board)</li>
   <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region<br>(Higher Secondary Division) and Qualified for the National Round </li>
 </ul>
+
+|Events|Reference|
+|------|---------|
+|Ranked <b> <a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "><img align = "center" src = "https://img.shields.io/badge/81-%23E60023.svg?style=flat"></a> <sup> st </sup> </b>(out of 20000+ registered participants) at codechef October challenge 2021|<a href = "https://www.codechef.com/rankings/OCT21C?filterBy=Country%3DBangladesh&itemsPerPage=100&order=asc&page=1&sortBy=rank "> <b><img align = "center" src = "https://img.shields.io/badge/Standings-%231877F2.svg?"></b> </a>|
+|Ranked <b><a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist> <img align = "center" src = "https://img.shields.io/badge/189-%23E60023.svg?style=flat"></a> <sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam <br>2019 (Comilla Board)|<a href = "https://allrezultbd.files.wordpress.com/2019/12/hsc-scholarship-2019-final.pdf" alt = Ranklist>  <b><img align = "center" src = "https://img.shields.io/badge/Ranking-%231877F2.svg?"> </b></a>|
 
 </details>
 
