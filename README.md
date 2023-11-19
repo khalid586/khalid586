@@ -20,7 +20,7 @@
   </summary>
   <ul>
       <li><i> Representing <img align = "center"  src = "assets/BD%20waving%20flag.gif" width = "30px"><b> Bangladesh </b> at the <img src ="images.png" height = "20px" width = "25px" align = "center"> GLOBAL Arena and wave the Flag <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "30px"></i>
-      </li>
+      
   </ul>
 </details>
 
@@ -41,12 +41,12 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 
   <ul>
-    <li style="margin-bottom: 7px;"><b> <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "32px" height = "20px" > ICPC Asia Regionalist</b> </li>
-    <li style="margin-bottom: 7px;"><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "32px" height = "22px"> <b>Problem-Setter</b></li>
-    <li style="margin-bottom: 7px;"><img align="center" alt="YouTube" width = "32px" height = "22px" src="https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif"><b> Programming Mentor</b></li>
-    <li style="margin-bottom: 7px;"><img align = "center" src = "https://i.pinimg.com/originals/de/01/e7/de01e79dd4c5a4a07ba9ede68dc62486.gif" width = "32px" height = "22px"> <b>Competition Organizer </b></li>
-    <!-- <li style="margin-bottom: 7px;"><img align="center" alt="YouTube" width="25px" height = "20px" src="assets/youtube.png"><b> <img align = "center" src = "https://img.shields.io/badge/Content Creator-grey.svg?"></b></li> -->
-    <li style="margin-bottom: 7px;"><img align = "center" src = "assets/speak.webp" width = "32px" height = "22px"><b> Debater</b></li>
+    <li style="margin-bottom: 7px;"><b> <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "32px" height = "20px" > ICPC Asia Regionalist</b> 
+    <li style="margin-bottom: 7px;"><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "32px" height = "22px"> <b>Problem-Setter</b>
+    <li style="margin-bottom: 7px;"><img align="center" alt="YouTube" width = "32px" height = "22px" src="https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif"><b> Programming Mentor</b>
+    <li style="margin-bottom: 7px;"><img align = "center" src = "https://i.pinimg.com/originals/de/01/e7/de01e79dd4c5a4a07ba9ede68dc62486.gif" width = "32px" height = "22px"> <b>Competition Organizer </b>
+    <!-- <li style="margin-bottom: 7px;"><img align="center" alt="YouTube" width="25px" height = "20px" src="assets/youtube.png"><b> <img align = "center" src = "https://img.shields.io/badge/Content Creator-grey.svg?"></b> -->
+    <li style="margin-bottom: 7px;"><img align = "center" src = "assets/speak.webp" width = "32px" height = "22px"><b> Debater</b>
   </ul> 
  <br><br>
 
@@ -63,12 +63,12 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <img align="right" alt="working" width="400px" height="250px" src="assets/social.gif"> 
   <br>
 <ul>
-  <li style="margin-bottom: 5px;"> <a href = "mailto:iamkhalidabd@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /> <img align = "center" src = "https://img.shields.io/badge/iamkhalidabd@gmail.com-%23E60023.svg?"></a></li>
-  <li style="margin-bottom: 5px;"> <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg"> <img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"></a> </li>     
-  <li style="margin-bottom: 5px;"> <a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" width="30" />  <img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah-%231877F2.svg?logo=Facebook&logoColor=white">  </a></li>
-  <li style="margin-bottom: 5px;"><a href="https://codeforces.com/profile/khalid10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height="30" width="40" /> <img align = "center" src = "https://img.shields.io/badge/Codeforces-%23FFE953.svg?"></a></li>
+  <li style="margin-bottom: 5px;"> <a href = "mailto:iamkhalidabd@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /> <img align = "center" src = "https://img.shields.io/badge/iamkhalidabd@gmail.com-%23E60023.svg?"></a>
+  <li style="margin-bottom: 5px;"> <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"> <img align="center" alt="Khalid abdullah | LinkedIn" width="30px" src="linkedin.svg"> <img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"></a>      
+  <li style="margin-bottom: 5px;"> <a href="https://fb.com/profile.php?id=100008925970800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid abdullah" width="30" />  <img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah-%231877F2.svg?logo=Facebook&logoColor=white">  </a>
+  <li style="margin-bottom: 5px;"><a href="https://codeforces.com/profile/khalid10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalid10" height="30" width="40" /> <img align = "center" src = "https://img.shields.io/badge/Codeforces-%23FFE953.svg?"></a>
   <li style="margin-bottom: 5px;"><a href="https://www.leetcode.com/khalidcomilla58
-  " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khalid58" height="30" width="40" /><img align = "center" src = "https://img.shields.io/badge/Leetcode-%23E34F26.svg?"></a></li>
+  " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khalid58" height="30" width="40" /><img align = "center" src = "https://img.shields.io/badge/Leetcode-%23E34F26.svg?"></a>
 </ul>
 </div>
 
@@ -133,16 +133,16 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <h1> <img align = "center" alt = "academic" src = "assets/green stat.gif"  width="60px" height = "45px"> <a href = "http://www.github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Experience-%23E60023.svg?style=flat" width = "130px"></a> </h1>
   <img align="right" alt="Coding" width="400px" height="280px" src="assets/new.gif">
   <p> <b>Brief</b> </p>
-<ul>
-    <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width = "40px" height = "25px"><b>Participated in ICPC Asia Dhaka regional 3 times</b></li>
-    <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px" height = "25px"><b> Solved 1000+ algorithmic problems </b>on various coding platforms</li>
-    <li style="margin-bottom: 12px;"><img align = "center" src = "https://www.lambdatest.com/resources/images/news24.gif" width = "40px" height = "25px"> Participated in <b>50+ Online Programming Competitions</li>
-    <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "40px" height = "25px"><b> Problemsetter at Junior IUPC</b>
-    </li>
-    <li style="margin-bottom: 12px;"><img align = "center" src = "https://i.pinimg.com/originals/de/01/e7/de01e79dd4c5a4a07ba9ede68dc62486.gif" width = "40px" height = "25px"> Organizer at BAIUST CSE FEST (programming contest) </li>
-    </li>
-    <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/3079111/presentation_d.gif" width = "40px" height = "25px"> Mentored Programmers of our campus</li>
-    <li style="margin-bottom: 12px;"><img align = "center" src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" width = "40px" height = "25px"> Conducted Workshops for 1<sup>st</sup> and 2<sup>nd </sup>  year students</li>
+
+- <img align = "center" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width = "40px" height = "25px"><b>Participated in ICPC Asia Dhaka regional `3 times`</b>
+- <img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px" height = "25px"><b> Solved `1000+` algorithmic problems </b>on various coding platforms
+- <img align = "center" src = "https://www.lambdatest.com/resources/images/news24.gif" width = "40px" height = "25px"> Participated in <b>`50+` Online Programming Competitions
+- <img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "40px" height = "25px"><b> Problemsetter at Junior IUPC</b>
+
+- <img align = "center" src = "https://i.pinimg.com/originals/de/01/e7/de01e79dd4c5a4a07ba9ede68dc62486.gif" width = "40px" height = "25px"> Organizer at BAIUST CSE FEST (programming contest) 
+
+- <img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/3079111/presentation_d.gif" width = "40px" height = "25px"> Mentored Programmers of our campus
+- <img align = "center" src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" width = "40px" height = "25px"> Conducted Workshops for 1<sup>st</sup> and 2<sup>nd </sup>  year students
 </ul>
 
 <br>
@@ -150,7 +150,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <b>Details</b>
 |Events|Reference|
 |-----|---------|
-|Represented my <img align="center" alt="Baiust" width="25px" height = "20px" src="assets/baiustLogo.jpg"> <b>Institution </b> at <b>6x Onsite National Programming Competitions</b> <br>which includes <b>3x   <img align="center" width="23px" height = "18" src = "images.png"> ICPC Asia Dhaka Regional Contest </b>|<a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align = "center" src = "https://img.shields.io/badge/ ICPC Credential-%231877F2.svg?" width = "100px"></a>|
+|Represented my <img align="center" alt="Baiust" width="25px" height = "20px" src="assets/baiustLogo.jpg"> <b>Institution </b> at <b>6x Onsite National Programming Competitions</b> <br>which includes <b>`3x`   <img align="center" width="23px" height = "18" src = "images.png"> `ICPC Asia Dhaka Regional` Contest </b>|<a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align = "center" src = "https://img.shields.io/badge/ ICPC Credential-%231877F2.svg?" width = "100px"></a>|
 |<b> Solved 1000+ algorithmic problems </b>on various coding platforms| <a href = "https://www.stopstalk.com/user/profile/khalid58"> <b> <img align = "center" src = "https://img.shields.io/badge/Stats-%231877F2.svg?"> </b></a>|
 |Participated in <b>50+ Online Programming Competitions |<a href = "https://www.stopstalk.com/user/profile/khalid58"> <img align = "center" src = "https://img.shields.io/badge/Stats-%231877F2.svg?"> </b></a>|
 |<a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"><img align = "center" src = "https://img.shields.io/badge/Problemsetter-%23E60023.svg?"></a> </b>at <img align="center" alt="Toph" width="30px" src="emblem_120p.png"> Junior Intra University Programming Contest(IUPC) which included resposibilites such as Preparing <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Problem%20statements">Problem statements </a>, Writing <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Solutions">Solutions </a> and <a href = "https://github.com/khalid586/Problem-Setting/tree/main/Test%20cases"> Test Cases  </a>|<a href = "https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8"> <img align = "center" src = "https://img.shields.io/badge/C. Save money and F. Evenly Divisible-%231877F2.svg?"></a>|
@@ -172,12 +172,10 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <p> <b>Brief</b> </p>
 
-<ul>
-  <li style="margin-bottom: 5px;"><img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked 81<sup>st</sup> in a GLOBAL coding competition</li>
-  <li><img align="center" alt="academics" width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> One of the Top Performers of <b>OOP and Data Structure & Algorithms course</li>
-  <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked 189<sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam <br>2019 (Comilla Board)</li>
-  <li><img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b>23<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region<br>(Higher Secondary Division) and Qualified for the National Round  </li>
-</ul>
+- <img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked `81`<sup>st</sup> in a GLOBAL coding competition
+- <img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> One of the Top Performers of <b>OOP and Data Structure & Algorithms course
+- <img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked `189` <sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam <br>2019 (Comilla Board)
+- <img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b>`23`<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region<br>(Higher Secondary Division) and Qualified for the National Round
 
 <br>
 <p> <b>Details</b> </p>
@@ -200,10 +198,10 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <p> <b>Brief</b> </p>
 
 <ul align = "left">
-    <li style="margin-top: 15px;"><img align = "center" src = "assets/debater.gif" width = "40px" height = "25px"> Participated in Debate Competition</li>
-    <li style="margin-top: 15px;"><img align="center" src="https://cdn.dribbble.com/users/3651832/screenshots/7058203/rob.gif" alt="robo soccer" width="40px" height = "25px" > Semi-finalist at Robo soccer competition</li>
-    <li style="margin-top: 15px;"><img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px" height = "25px"> Participated in Global coding contest such as Google Kickstart , CodeJam and Facebook HackerCup</li>
-    <li style="margin-top: 15px;"><img align = "center" src = "https://cdn.dribbble.com/users/176039/screenshots/5506302/media/79cbe7cf1815a8b5dc825b7063a9a7bd.gif" width = "40px" height = "25px"> Participated in several Online Hackathons</li>
+    <li style="margin-top: 15px;"><img align = "center" src = "assets/debater.gif" width = "40px" height = "25px"> Participated in Debate Competition
+    <li style="margin-top: 15px;"><img align="center" src="https://cdn.dribbble.com/users/3651832/screenshots/7058203/rob.gif" alt="robo soccer" width="40px" height = "25px" > Semi-finalist at Robo soccer competition
+    <li style="margin-top: 15px;"><img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px" height = "25px"> Participated in Global coding contest such as Google Kickstart , CodeJam and Facebook HackerCup
+    <li style="margin-top: 15px;"><img align = "center" src = "https://cdn.dribbble.com/users/176039/screenshots/5506302/media/79cbe7cf1815a8b5dc825b7063a9a7bd.gif" width = "40px" height = "25px"> Participated in several Online Hackathons
         
 </ul>
 
