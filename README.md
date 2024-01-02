@@ -1,8 +1,7 @@
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="400" src="assets/banner%20gif.gif"></a> <br>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum;Welcome+to+My+Profile"></a>
 
-<p align = "center"><img align = "center" src = "https://media.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width = "40px"> <a href = "https://drive.google.com/file/d/1I9a2c-kg4D501A1PyovhlvmF93PW23V2/view?usp=drivesdk"><img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah-white.svg?" width = "200px"></a></p>
-<h4 align="center">  <img align = "center" src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "30px"> <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU" target = "_blank"> <img align = "center" src = "https://img.shields.io/badge/Bangladeshi Sports Programmer-%23E60023.svg?"></a>  </h4>
+<h1 align = "center"> <img src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "50px" align = "center"> Khalid Abdullah </h1>
 
 <!-- <br><br> | <img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "25px"> | <img align = "center" src = "https://img.shields.io/badge/Fullstack Developer-%2300f.svg?"> |
  -->
