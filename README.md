@@ -40,7 +40,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 
   <ul>
-    <li style="margin-bottom: 7px;"><b> <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "32px" height = "20px" > ICPC Asia Regionalist</b> 
+    <li style="margin-bottom: 7px;"><b> <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "32px" height = "20px" > ACM ICPC Asia Regionalist</b> 
     <li style="margin-bottom: 7px;"><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "32px" height = "22px"> <b>Problem-Setter</b>
     <li style="margin-bottom: 7px;"><img align="center" alt="YouTube" width = "32px" height = "22px" src="https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif"><b> Programming Mentor</b>
     <li style="margin-bottom: 7px;"><img align = "center" src = "https://i.pinimg.com/originals/de/01/e7/de01e79dd4c5a4a07ba9ede68dc62486.gif" width = "32px" height = "22px"> <b>Competition Organizer </b>
@@ -49,8 +49,9 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
   </ul> 
  <br><br>
 
-- My Resume - <a href = "https://drive.google.com/file/d/1I9a2c-kg4D501A1PyovhlvmF93PW23V2/view?usp=sharing"><img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah -%23E60023.svg?"></a>
-- My LinkedIn - <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"><img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"> </a>
+- **My Resume** - <a href = "https://drive.google.com/file/d/1I9a2c-kg4D501A1PyovhlvmF93PW23V2/view?usp=sharing"><img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah -%23E60023.svg?"></a>
+- **My LinkedIn** - <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"><img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"> </a>
+- **ICPC Credential** - <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align = "center" src = "https://img.shields.io/badge/ ACM ICPC-%231877F2.svg?" width = "60"></a>
 
 </div>
 
