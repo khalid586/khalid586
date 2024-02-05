@@ -102,10 +102,10 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
       <thead>
             <tr>
                   <th>
-                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=midnight-purple&hide_border=false"></p>
+                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khalid586&theme=chartreuse-dark&hide_border=false"></p>
                   </th>
                   <th>
-                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khalid586&show_icons=true&theme=midnight-purple&locale=en"&include_all_commits=false&count_private=true" alt="khalid586"> </p>
+                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khalid586&show_icons=true&theme=chartreuse-dark&locale=en"&include_all_commits=false&count_private=true" alt="khalid586"> </p>
                   </th>
             </tr>
       </thead>
