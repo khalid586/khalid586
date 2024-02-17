@@ -1,4 +1,4 @@
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" height="400" src="assets/banner%20gif.gif"></a> <br>
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" src="assets/banner%20gif.gif"></a> <br>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum;Welcome+to+My+Profile"></a>
 
 <h1 align = "center"> <img src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "50px" align = "center"> Khalid Abdullah </h1>
@@ -269,6 +269,9 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 </details>
 
+<br>
+
+<img width="800" src="https://cdn.dribbble.com/users/1981645/screenshots/8095899/media/881376910bc045fcb4b90bfcad5d8d4e.gif">
 
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)  -->
 
