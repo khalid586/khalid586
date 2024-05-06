@@ -78,9 +78,10 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 # [<img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"  width="70px">]() Projects
 
-|Preview|Project Name|Frontend|Backend|Database|Source Code|Live Link|
+|Preview|Project Name|Frontend|Authentication|Backend|Database|Links|
 |-|-|-|-|-|-|-|
-|<img align = "center" src ="https://i.ibb.co/6wW4Mwk/Screenshot-81.png" height = "35px" width = "55px">|<b>Tourist</b>|![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)<br> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)|![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  | [Source Code](https://github.com/khalid586/Tourist) |[Live website](https://assignment10-22b3d.web.app/)|
+|<img align = "center" src ="https://i.ibb.co/6wW4Mwk/Screenshot-81.png" height = "35px" width = "55px">|<b>Tourist</b>|![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)<br> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)| ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)|![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  | [Source Code](https://github.com/khalid586/Tourist) <br><br> [Live website](https://assignment10-22b3d.web.app/)|
+|<img align = "center" src ="https://i.ibb.co/pbWY0Hv/Screenshot-83.png" height = "35px" width = "55px">|<b>Estate</b>|![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)<br> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)| ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)|-| -| [Source Code](https://github.com/khalid586/Estate) <br><br>[Live website](https://real-estate-auth-b141a.web.app/)|
 
 
 <hr>
