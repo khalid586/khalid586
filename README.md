@@ -78,10 +78,9 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 # [<img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"  width="70px">]() Projects
 
-|Preview|Project Name|Frontend|Backend|Source Code|Video Demo|
-|-|-|-|-|-|-|
-|<img align = "center" src = "assets/Homepage.png" height = "35px" width = "45px">|<b>Kazi Shop</b>|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)| [Source - Kazi Shop](https://github.com/khalid586/Kazi-Shop) |<a href = "https://youtu.be/x27qBDEJ1HY"> <img src = "https://cdn.dribbble.com/users/1369921/screenshots/3699553/media/632fe87d30ef9413a3512dd317727b8b.gif" width = "70px"> </a>|
-|-|<b>Blogging App</b>|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)<br> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)|-|-|
+|Preview|Project Name|Frontend|Backend|Database|Source Code|Live Link|
+|-|-|-|-|-|-|-|
+|<img align = "center" src ="https://i.ibb.co/6wW4Mwk/Screenshot-81.png" height = "35px" width = "55px">|<b>Tourist</b>|![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)<br> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)|![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  | [Source Code](https://github.com/khalid586/Tourist) |[Live website](https://assignment10-22b3d.web.app/)|
 
 
 <hr>
