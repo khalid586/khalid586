@@ -78,10 +78,11 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 # [<img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"  width="70px">]() Projects
 
-### Fullstack projects
 
-|<img src = 'https://i.ibb.co/6wW4Mwk/Screenshot-81.png' width = "100%" height = "240px">|<img src = 'https://i.ibb.co/Xs3LJRH/Screenshot-90.png' width = "100%" height = "240px">|
+
+|[<img src = 'https://i.ibb.co/T4GztCs/2024-06-0309-43-47-ezgif-com-video-to-gif-converter.gif' width = "100%" height = "240px">](https://github.com/khalid586/Tourist) |[<img src = 'https://i.ibb.co/s3ZXxXX/2024-06-0309-54-30-ezgif-com-video-to-gif-converter.gif' width = "100%" height = "240px">](https://github.com/khalid586/Books-buy)|
 |-|-|
+|[**Live website**](https://tourist-fa667.web.app)|[**Live website**](https://books-buy1.web.app/)|
 
 <!-- |Preview|Project Name|Frontend|Authentication|Backend|Database|Links|
 |-|-|-|-|-|-|-|
