@@ -80,7 +80,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 ### Fullstack projects
 
-|<img src = 'https://i.ibb.co/6wW4Mwk/Screenshot-81.png' width = "100%" height = "300px">|<img src = 'https://i.ibb.co/Xs3LJRH/Screenshot-90.png' width = "100%" height = "300px">|
+|<img src = 'https://i.ibb.co/6wW4Mwk/Screenshot-81.png' width = "100%" height = "240px">|<img src = 'https://i.ibb.co/Xs3LJRH/Screenshot-90.png' width = "100%" height = "240px">|
 |-|-|
 
 <!-- |Preview|Project Name|Frontend|Authentication|Backend|Database|Links|
