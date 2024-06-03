@@ -41,11 +41,11 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
   <ul>
     <li style="margin-bottom: 7px;"><b> <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "32px" height = "20px" > ACM ICPC Dhaka Regionalist</b> 
-    <li style="margin-bottom: 7px;"><img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "32px" height = "22px"> <b>Problem-Setter</b>
-    <li style="margin-bottom: 7px;"><img align="center" alt="YouTube" width = "32px" height = "22px" src="https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif"><b> Programming Mentor</b>
-    <li style="margin-bottom: 7px;"><img align = "center" src = "https://i.pinimg.com/originals/de/01/e7/de01e79dd4c5a4a07ba9ede68dc62486.gif" width = "32px" height = "22px"> <b>Competition Organizer </b>
+    <li style="margin-bottom: 7px;"><b>Problem-Setter</b>
+    <li style="margin-bottom: 7px;"><b> Programming Mentor</b>
+    <li style="margin-bottom: 7px;"><b>Competition Organizer </b>
     <!-- <li style="margin-bottom: 7px;"><img align="center" alt="YouTube" width="25px" height = "20px" src="assets/youtube.png"><b> <img align = "center" src = "https://img.shields.io/badge/Content Creator-grey.svg?"></b> -->
-    <li style="margin-bottom: 7px;"><img align = "center" src = "assets/speak.webp" width = "32px" height = "22px"><b> Debater</b>
+    <li style="margin-bottom: 7px;"><b> Debater</b>
   </ul> 
  <br><br>
 
@@ -61,7 +61,6 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 # Connect with Me
 
-<img align="right" alt="working" width="400px" height="250px" src="assets/social.gif"> 
   <br>
 <ul>
   <li style="margin-bottom: 5px;"> <a href = "mailto:iamkhalidabd@gmail.com"><img align="center" alt="Khalid abdullah | Gmail" width="30px"  src="gmail.png" /> <img align = "center" src = "https://img.shields.io/badge/iamkhalidabd@gmail.com-%23E60023.svg?"></a>
@@ -290,7 +289,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br>
 
-<img width="800" height = "300" src="assets/homerun.gif">
+<img width="800" height = "300" src="assets/social.gif">
 
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)  -->
 
