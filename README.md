@@ -147,9 +147,9 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 
 <details>
-<summary><b>Experience</b></summary>
+<summary><b> Undergrad Experience</b></summary>
 
-<h1> <img align = "center" alt = "academic" src = "assets/green stat.gif"  width="60px" height = "45px"> <a href = "http://www.github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Experience-%23E60023.svg?style=flat" width = "130px"></a> </h1>
+<h1> <img align = "center" alt = "academic" src = "assets/green stat.gif"  width="60px" height = "45px"> </h1>
   <img align="right" alt="Coding" width="400px" height="280px" src="assets/new.gif">
   <p> <b>Brief</b> </p>
 
