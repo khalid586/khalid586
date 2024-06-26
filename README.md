@@ -49,7 +49,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
   </ul> 
  <br><br>
 
-- **My Resume** - <a href = "https://drive.google.com/file/d/1fE6xxVhWEgGXRsr8BYLuQ8vs1c4Ym97e/view?usp=sharing"><img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah -%23E60023.svg?"></a>
+- **My Resume** - <a href = "https://drive.google.com/file/d/1YVUVm7J25rVit7gPR744tloDiokBKc2L/view?fbclid=IwZXh0bgNhZW0CMTEAAR3QKKmsK5mRj_tzLK09RRvkth9oEjOlL6Rpha8DlbOfTRFo3WP-CVNP8i4_aem_cHBXjc5-_i5QpRot7W15tg"><img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah -%23E60023.svg?"></a>
 - **My LinkedIn** - <a href = "https://www.linkedin.com/in/khalid-abdullah-47b655190/"><img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"> </a>
 - **ICPC Credential** - <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align = "center" src = "https://img.shields.io/badge/ ACM ICPC-%231877F2.svg?" width = "60"></a>
 
