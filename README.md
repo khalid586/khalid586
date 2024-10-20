@@ -1,4 +1,4 @@
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" src="cover.jpeg"></a> <br>
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="800" src="cover.png"></a> <br>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0BF700&background=FF000000&size=25&center=true&vCenter=true&width=600&height=70&lines=Assalamu+Alaikum;Welcome+to+My+Profile"></a>
 
 <h1 align = "center"> <img src = "https://1.bp.blogspot.com/-qngrm2FfQFM/YDErXYiIDiI/AAAAAAAA3yE/6eUiEF8lxc8Qg--03XFRy5w4PP6ujKipACLcBGAsYHQ/s0/Flag_of_Bangladesh.gif" width = "50px" align = "center"> Khalid Abdullah </h1>
