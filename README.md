@@ -76,14 +76,6 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <br><br>
 
 
-# [<img align = "center" alt = "academic" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"  width="70px">]() Projects
-
-
-
-|[<img src = 'https://i.ibb.co/T4GztCs/2024-06-0309-43-47-ezgif-com-video-to-gif-converter.gif' width = "100%">](https://github.com/khalid586/Tourist) |[<img src = 'https://i.ibb.co/s3ZXxXX/2024-06-0309-54-30-ezgif-com-video-to-gif-converter.gif' width = "100%">](https://github.com/khalid586/Books-buy)|
-|-|-|
-|[**Live website**](https://tourist-fa667.web.app)|[**Live website**](https://books-buy1.web.app/)|
-
 <!-- |Preview|Project Name|Frontend|Authentication|Backend|Database|Links|
 |-|-|-|-|-|-|-|
 |<img align = "center" src ="https://i.ibb.co/6wW4Mwk/Screenshot-81.png" height = "40px" width = "65px">|<b>Tourist</b>|![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)<br> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)| ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)|![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  | [Source Code](https://github.com/khalid586/Tourist) <br><br> [Live website](https://tourist-fa667.web.app)|
@@ -154,15 +146,14 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
   <img align="right" alt="Coding" width="400px" height="280px" src="assets/new.gif">
   <p> <b>Brief</b> </p>
 
-- <img align = "center" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width = "40px" height = "25px"><b>Participated in ICPC Asia Dhaka regional `3 times`</b>
-- <img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px" height = "25px"><b> Solved `1000+` algorithmic problems </b>on various coding platforms
-- <img align = "center" src = "https://www.lambdatest.com/resources/images/news24.gif" width = "40px" height = "25px"> Participated in <b>`50+` Online Programming Competitions
-- <img align = "center" src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" width = "40px" height = "25px"><b> Problemsetter at Junior IUPC</b>
+- **Participated in ICPC Asia Dhaka regional 3 times**
+- **Solved 1000+ algorithmic problems** on various coding platforms
+- **Participated in 50+ Online Programming Competitions**
+- **Problemsetter at Junior IUPC**
+- **Organizer at BAIUST CSE FEST (programming contest)**
+- **Mentored Programmers of our campus**
+- **Conducted Workshops** for 1<sup>st</sup> and 2<sup>nd</sup> year students
 
-- <img align = "center" src = "https://i.pinimg.com/originals/de/01/e7/de01e79dd4c5a4a07ba9ede68dc62486.gif" width = "40px" height = "25px"> Organizer at BAIUST CSE FEST (programming contest) 
-
-- <img align = "center" src = "https://cdn.dribbble.com/users/1299339/screenshots/3079111/presentation_d.gif" width = "40px" height = "25px"> Mentored Programmers of our campus
-- <img align = "center" src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" width = "40px" height = "25px"> Conducted Workshops for 1<sup>st</sup> and 2<sup>nd </sup>  year students
 </ul>
 
 <br>
@@ -193,9 +184,9 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 <p> <b>Brief</b> </p>
 
 - <img src = "assets/BD%20waving%20flag.gif" width = "30px" height = "20px"  align = "center"> Ranked `81`<sup>st</sup> in a GLOBAL coding competition
-- <img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> One of the Top Performers of <b>OOP and Data Structure & Algorithms course
-- <img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked `189` <sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam <br>2019 (Comilla Board)
-- <img align="center" alt="academics"  width="30px" height = "20px" src="assets/purple stat.gif.crdownload"> Ranked <b>`23`<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region<br>(Higher Secondary Division) and Qualified for the National Round
+- One of the Top Performers of <b>OOP and Data Structure & Algorithms course
+- Ranked `189` <sup>th</sup></b> at Higher Secondary Certificate(HSC) Exam <br>2019 (Comilla Board)
+- Ranked <b>`23`<sup>rd</sup> </b>at Physics Olympiad 2018 , Comilla Region<br>(Higher Secondary Division) and Qualified for the National Round
 
 <br>
 <p> <b>Details</b> </p>
@@ -217,13 +208,12 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <p> <b>Brief</b> </p>
 
-<ul align = "left">
-    <li style="margin-top: 15px;"><img align = "center" src = "assets/debater.gif" width = "40px" height = "25px"> Participated in Debate Competition
-    <li style="margin-top: 15px;"><img align="center" src="https://cdn.dribbble.com/users/3651832/screenshots/7058203/rob.gif" alt="robo soccer" width="40px" height = "25px" > Semi-finalist at Robo soccer competition
-    <li style="margin-top: 15px;"><img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "40px" height = "25px"> Participated in Global coding contest such as Google Kickstart , CodeJam and Facebook HackerCup
-    <li style="margin-top: 15px;"><img align = "center" src = "https://cdn.dribbble.com/users/176039/screenshots/5506302/media/79cbe7cf1815a8b5dc825b7063a9a7bd.gif" width = "40px" height = "25px"> Participated in several Online Hackathons
+- **Participated in Debate Competition**
+- **Semi-finalist at Robo Soccer Competition**
+- **Participated in Global Coding Contests such as Google Kickstart, CodeJam, and Facebook HackerCup**
+- **Participated in Several Online Hackathons**
+
         
-</ul>
 
 <br>
 
