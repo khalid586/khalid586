@@ -199,7 +199,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 </details>
 
 <details>
-<summary>Activities</summary>
+<summary><b>Activities</b></summary>
 
 
 <h1> <img align="center" alt="Activities" width="60px" src = "https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif"> <a href = "http://www.github.com/khalid586"> <img src = "https://img.shields.io/badge/Activities-%23Clojure.svg?style=flat" align = "center" width = "90px"></a> </h1>
@@ -228,7 +228,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 </details>
 
 <details>
-<summary>Competitive Rankings</summary>
+<summary><b>Competitive Rankings</b></summary>
 
 # <img align="center" alt="Achievements" width="60px" src="https://cdn.dribbble.com/users/3593/screenshots/2475280/linechart.gif"> <a href = "https://github.com/khalid586"> <img align = "center" src = "https://img.shields.io/badge/Competitive Rankings-%23E60023.svg?style=flat" width = "200px"> </a> <img align = "center" src = "assets/BD%20waving%20flag.gif" width = "45px" height = "30px">
 
