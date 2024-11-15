@@ -280,7 +280,7 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
 
 <br>
 
-<a target="_blank" rel="noopener noreferrer" href="https://i.ibb.co.com/fv1Gjch/DALL-E-2024-11-15-20-08-14-A-hyper-detailed-and-vibrant-illustration-of-a-Bangladeshi-professional-s.webp"><img width="800" height = "400" src="https://i.ibb.co.com/fv1Gjch/DALL-E-2024-11-15-20-08-14-A-hyper-detailed-and-vibrant-illustration-of-a-Bangladeshi-professional-s.webp"></a> 
+<a target="_blank" rel="noopener noreferrer" href="https://i.ibb.co.com/fv1Gjch/DALL-E-2024-11-15-20-08-14-A-hyper-detailed-and-vibrant-illustration-of-a-Bangladeshi-professional-s.webp"><img width="600" height = "300" src="https://i.ibb.co.com/fv1Gjch/DALL-E-2024-11-15-20-08-14-A-hyper-detailed-and-vibrant-illustration-of-a-Bangladeshi-professional-s.webp"></a> 
 
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)  -->
 
