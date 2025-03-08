@@ -6,10 +6,6 @@
 <!-- <br><br> | <img align = "center" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" width = "25px"> | <img align = "center" src = "https://img.shields.io/badge/Fullstack Developer-%2300f.svg?"> |
  -->
 
-
-<!-- For resume [![Resume](https://img.shields.io/badge/-Resume-success)]()-->
-
-                                                                                                                                                           
 [![](https://visitcount.itsvg.in/api?id=khalid586&icon=0&color=11)](https://visitcount.itsvg.in)
 
 
@@ -50,7 +46,6 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
  <br><br>
 
 - **My Portfolio** - [<img align = "center" src = "https://img.shields.io/badge/Portfolio-white.svg?" width = "60">](https://khalid-abdullah.netlify.app)
-- **My Resume** - <a href = "https://drive.google.com/file/d/1YVUVm7J25rVit7gPR744tloDiokBKc2L/view?fbclid=IwZXh0bgNhZW0CMTEAAR3QKKmsK5mRj_tzLK09RRvkth9oEjOlL6Rpha8DlbOfTRFo3WP-CVNP8i4_aem_cHBXjc5-_i5QpRot7W15tg"><img align = "center" src = "https://img.shields.io/badge/Khalid Abdullah -%23E60023.svg?"></a>
 - **My LinkedIn** - <a href = "https://www.linkedin.com/in/khalid-abdullah10/"><img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"> </a>
 - **ICPC Credential** - <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align = "center" src = "https://img.shields.io/badge/ ACM ICPC-%231877F2.svg?" width = "60"></a>
 
