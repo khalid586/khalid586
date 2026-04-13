@@ -44,8 +44,10 @@ You don't need money to give a star <img src = "https://cdn.dribbble.com/users/1
     <li style="margin-bottom: 7px;"><b> Debater</b>
   </ul> 
  <br><br>
-
+<!--
 - **My Portfolio** - [<img align = "center" src = "https://img.shields.io/badge/Portfolio-white.svg?" width = "60">](https://khalid-abdullah.netlify.app)
+-->
+
 - **My LinkedIn** - <a href = "https://www.linkedin.com/in/khalid-abdullah10/"><img src = "https://img.shields.io/badge/Khalid Abdullah-%230077B5.svg?logo=linkedin&logoColor=white" align = "center"> </a>
 - **ICPC Credential** - <a href = "https://icpc.global/ICPCID/DCRIAR9MRAEU"> <img align = "center" src = "https://img.shields.io/badge/ ACM ICPC-%231877F2.svg?" width = "60"></a>
 
